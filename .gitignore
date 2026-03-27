@@ -1,4 +1,18 @@
-.claude/
+# dependencies
 node_modules/
-package-lock.json
+
+# build output
 dist/
+
+# env files
+.env
+.env.local
+.env.*.local
+
+# editor / OS
+.DS_Store
+Thumbs.db
+*.local
+
+# Claude Code internal
+.claude/
