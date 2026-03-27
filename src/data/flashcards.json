@@ -1,0 +1,4202 @@
+[
+  {
+    "id": 1,
+    "english": "Let me walk you through the architecture.",
+    "spanish": "Permíteme explicarte la arquitectura.",
+    "section": "Introducción y presentación",
+    "context": "Inicio de explicación técnica",
+    "tags": ["intro", "presentation", "architecture"]
+  },
+  {
+    "id": 2,
+    "english": "I'll give you a high-level overview first.",
+    "spanish": "Primero te daré una visión general de alto nivel.",
+    "section": "Introducción y presentación",
+    "context": "Inicio de presentación",
+    "tags": ["overview", "intro"]
+  },
+  {
+    "id": 3,
+    "english": "Let me provide some context before we dive in.",
+    "spanish": "Déjame darte un poco de contexto antes de profundizar.",
+    "section": "Introducción y presentación",
+    "context": "Antes de entrar en detalles",
+    "tags": ["context", "intro"]
+  },
+  {
+    "id": 4,
+    "english": "This solution is designed to meet the business requirements.",
+    "spanish": "Esta solución está diseñada para cumplir con los requerimientos del negocio.",
+    "section": "Introducción y presentación",
+    "context": "Contextualización de solución",
+    "tags": ["business", "solution"]
+  },
+  {
+    "id": 5,
+    "english": "I'll start by explaining the main components.",
+    "spanish": "Empezaré explicando los componentes principales.",
+    "section": "Introducción y presentación",
+    "context": "Inicio de desglose de arquitectura",
+    "tags": ["components", "architecture"]
+  },
+  {
+    "id": 6,
+    "english": "The goal of this architecture is to ensure scalability and reliability.",
+    "spanish": "El objetivo de esta arquitectura es garantizar escalabilidad y confiabilidad.",
+    "section": "Introducción y presentación",
+    "context": "Definición de objetivos",
+    "tags": ["scalability", "reliability"]
+  },
+  {
+    "id": 7,
+    "english": "Let me explain how the system is structured.",
+    "spanish": "Déjame explicarte cómo está estructurado el sistema.",
+    "section": "Introducción y presentación",
+    "context": "Explicación general",
+    "tags": ["system", "structure"]
+  },
+  {
+    "id": 8,
+    "english": "This diagram represents the overall system architecture.",
+    "spanish": "Este diagrama representa la arquitectura general del sistema.",
+    "section": "Introducción y presentación",
+    "context": "Explicación de diagramas",
+    "tags": ["diagram", "architecture"]
+  },
+  {
+    "id": 9,
+    "english": "Before going into details, let's review the main flow.",
+    "spanish": "Antes de entrar en detalles, revisemos el flujo principal.",
+    "section": "Introducción y presentación",
+    "context": "Introducción a flujo",
+    "tags": ["flow", "overview"]
+  },
+  {
+    "id": 10,
+    "english": "I'll walk you through the end-to-end process.",
+    "spanish": "Te guiaré a través del proceso de extremo a extremo.",
+    "section": "Introducción y presentación",
+    "context": "Explicación completa",
+    "tags": ["end-to-end", "process"]
+  },
+  {
+    "id": 11,
+    "english": "This architecture is designed with scalability in mind.",
+    "spanish": "Esta arquitectura está diseñada pensando en la escalabilidad.",
+    "section": "Introducción y presentación",
+    "context": "Justificación inicial",
+    "tags": ["scalability"]
+  },
+  {
+    "id": 12,
+    "english": "Let me outline the key components of the solution.",
+    "spanish": "Déjame describir los componentes clave de la solución.",
+    "section": "Introducción y presentación",
+    "context": "Listado de componentes",
+    "tags": ["components", "solution"]
+  },
+  {
+    "id": 13,
+    "english": "This solution follows a microservices-based architecture.",
+    "spanish": "Esta solución sigue una arquitectura basada en microservicios.",
+    "section": "Introducción y presentación",
+    "context": "Tipo de arquitectura",
+    "tags": ["microservices"]
+  },
+  {
+    "id": 14,
+    "english": "Let me explain the rationale behind this design.",
+    "spanish": "Déjame explicarte la lógica detrás de este diseño.",
+    "section": "Introducción y presentación",
+    "context": "Introducción a decisiones",
+    "tags": ["design", "rationale"]
+  },
+  {
+    "id": 15,
+    "english": "This approach allows us to decouple different parts of the system.",
+    "spanish": "Este enfoque nos permite desacoplar diferentes partes del sistema.",
+    "section": "Introducción y presentación",
+    "context": "Beneficio de arquitectura",
+    "tags": ["decoupling"]
+  },
+  {
+    "id": 16,
+    "english": "Let me give you a quick overview of the system flow.",
+    "spanish": "Déjame darte una visión rápida del flujo del sistema.",
+    "section": "Introducción y presentación",
+    "context": "Resumen rápido",
+    "tags": ["flow", "overview"]
+  },
+  {
+    "id": 17,
+    "english": "We designed this system to handle high traffic efficiently.",
+    "spanish": "Diseñamos este sistema para manejar alto tráfico de manera eficiente.",
+    "section": "Introducción y presentación",
+    "context": "Contexto de diseño",
+    "tags": ["performance", "traffic"]
+  },
+  {
+    "id": 18,
+    "english": "Let me highlight the most important parts of the architecture.",
+    "spanish": "Déjame resaltar las partes más importantes de la arquitectura.",
+    "section": "Introducción y presentación",
+    "context": "Enfoque en lo importante",
+    "tags": ["highlight", "architecture"]
+  },
+  {
+    "id": 19,
+    "english": "This design ensures flexibility and maintainability.",
+    "spanish": "Este diseño garantiza flexibilidad y mantenibilidad.",
+    "section": "Introducción y presentación",
+    "context": "Beneficios generales",
+    "tags": ["flexibility", "maintainability"]
+  },
+  {
+    "id": 20,
+    "english": "I'll briefly explain how all components interact.",
+    "spanish": "Explicaré brevemente cómo interactúan todos los componentes.",
+    "section": "Introducción y presentación",
+    "context": "Interacción entre componentes",
+    "tags": ["interaction", "components"]
+  },
+  {
+    "id": 21,
+    "english": "What problem are we trying to solve?",
+    "spanish": "¿Qué problema estamos tratando de resolver?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Inicio de discovery con negocio o stakeholders",
+    "tags": ["requirements", "discovery", "business"]
+  },
+  {
+    "id": 22,
+    "english": "What are the main business goals behind this request?",
+    "spanish": "¿Cuáles son los principales objetivos de negocio detrás de este requerimiento?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Exploración de objetivos de negocio",
+    "tags": ["business", "goals", "requirements"]
+  },
+  {
+    "id": 23,
+    "english": "Who are the main users of this solution?",
+    "spanish": "¿Quiénes son los principales usuarios de esta solución?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Identificación de usuarios o consumidores",
+    "tags": ["users", "stakeholders", "discovery"]
+  },
+  {
+    "id": 24,
+    "english": "What are the key functional requirements?",
+    "spanish": "¿Cuáles son los requerimientos funcionales clave?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Levantamiento funcional",
+    "tags": ["functional", "requirements"]
+  },
+  {
+    "id": 25,
+    "english": "What non-functional requirements should we consider?",
+    "spanish": "¿Qué requerimientos no funcionales deberíamos considerar?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Levantamiento técnico y de calidad",
+    "tags": ["non-functional", "requirements", "quality"]
+  },
+  {
+    "id": 26,
+    "english": "What are the main business constraints we should consider?",
+    "spanish": "¿Cuáles son las principales restricciones del negocio que debemos considerar?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Identificación de restricciones",
+    "tags": ["business", "constraints"]
+  },
+  {
+    "id": 27,
+    "english": "Are there any technical constraints we need to be aware of?",
+    "spanish": "¿Hay alguna restricción técnica que debamos tener en cuenta?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Evaluación de limitaciones técnicas",
+    "tags": ["technical", "constraints"]
+  },
+  {
+    "id": 28,
+    "english": "What is the expected user volume?",
+    "spanish": "¿Cuál es el volumen esperado de usuarios?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Dimensionamiento inicial",
+    "tags": ["capacity", "scale", "users"]
+  },
+  {
+    "id": 29,
+    "english": "What kind of traffic patterns do we expect?",
+    "spanish": "¿Qué tipo de patrones de tráfico esperamos?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Análisis de carga",
+    "tags": ["traffic", "performance", "scale"]
+  },
+  {
+    "id": 30,
+    "english": "What systems need to be integrated?",
+    "spanish": "¿Qué sistemas necesitan integrarse?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Identificación de integraciones",
+    "tags": ["integration", "systems"]
+  },
+  {
+    "id": 31,
+    "english": "Do we need real-time processing or batch processing?",
+    "spanish": "¿Necesitamos procesamiento en tiempo real o procesamiento por lotes?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Definición del tipo de procesamiento",
+    "tags": ["real-time", "batch", "processing"]
+  },
+  {
+    "id": 32,
+    "english": "What are the availability expectations for this system?",
+    "spanish": "¿Cuáles son las expectativas de disponibilidad para este sistema?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Análisis de SLA y criticidad",
+    "tags": ["availability", "sla", "reliability"]
+  },
+  {
+    "id": 33,
+    "english": "What are the latency requirements?",
+    "spanish": "¿Cuáles son los requerimientos de latencia?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Definición de performance esperada",
+    "tags": ["latency", "performance"]
+  },
+  {
+    "id": 34,
+    "english": "How critical is this process for the business?",
+    "spanish": "¿Qué tan crítico es este proceso para el negocio?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Priorización de solución",
+    "tags": ["business", "criticality", "priority"]
+  },
+  {
+    "id": 35,
+    "english": "What happens if this system becomes unavailable?",
+    "spanish": "¿Qué sucede si este sistema deja de estar disponible?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Evaluación de impacto",
+    "tags": ["availability", "risk", "impact"]
+  },
+  {
+    "id": 36,
+    "english": "Are there any compliance or regulatory requirements?",
+    "spanish": "¿Existen requerimientos de cumplimiento o regulatorios?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Validación regulatoria",
+    "tags": ["compliance", "regulation", "security"]
+  },
+  {
+    "id": 37,
+    "english": "Do we have any security requirements from the beginning?",
+    "spanish": "¿Tenemos algún requerimiento de seguridad desde el inicio?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Seguridad temprana",
+    "tags": ["security", "requirements"]
+  },
+  {
+    "id": 38,
+    "english": "What data sources are involved in this process?",
+    "spanish": "¿Qué fuentes de datos están involucradas en este proceso?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Mapeo de origen de datos",
+    "tags": ["data", "sources", "integration"]
+  },
+  {
+    "id": 39,
+    "english": "What is the expected data volume?",
+    "spanish": "¿Cuál es el volumen esperado de datos?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Dimensionamiento de datos",
+    "tags": ["data", "volume", "scale"]
+  },
+  {
+    "id": 40,
+    "english": "How frequently will the data be updated?",
+    "spanish": "¿Con qué frecuencia se actualizarán los datos?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Definición de frecuencia de actualización",
+    "tags": ["data", "frequency", "update"]
+  },
+  {
+    "id": 41,
+    "english": "What is the expected timeline for delivery?",
+    "spanish": "¿Cuál es el cronograma esperado de entrega?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Alineación con plazos",
+    "tags": ["timeline", "delivery", "planning"]
+  },
+  {
+    "id": 42,
+    "english": "Do we have any budget limitations?",
+    "spanish": "¿Tenemos alguna limitación de presupuesto?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Análisis de restricciones económicas",
+    "tags": ["budget", "constraints", "cost"]
+  },
+  {
+    "id": 43,
+    "english": "What assumptions are we making at this stage?",
+    "spanish": "¿Qué supuestos estamos haciendo en esta etapa?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Aclaración de supuestos",
+    "tags": ["assumptions", "discovery", "planning"]
+  },
+  {
+    "id": 44,
+    "english": "What are the dependencies for this initiative?",
+    "spanish": "¿Cuáles son las dependencias de esta iniciativa?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Identificación de bloqueos o relaciones",
+    "tags": ["dependencies", "planning", "stakeholders"]
+  },
+  {
+    "id": 45,
+    "english": "Are there any legacy systems involved?",
+    "spanish": "¿Hay sistemas legacy involucrados?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Evaluación de contexto técnico existente",
+    "tags": ["legacy", "integration", "systems"]
+  },
+  {
+    "id": 46,
+    "english": "What is the current pain point with the existing solution?",
+    "spanish": "¿Cuál es el principal problema de la solución actual?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Descubrimiento de dolores actuales",
+    "tags": ["pain-points", "current-state", "business"]
+  },
+  {
+    "id": 47,
+    "english": "What does success look like for this project?",
+    "spanish": "¿Cómo se vería el éxito para este proyecto?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Definición de criterios de éxito",
+    "tags": ["success", "goals", "business"]
+  },
+  {
+    "id": 48,
+    "english": "How will this solution be measured once implemented?",
+    "spanish": "¿Cómo se medirá esta solución una vez implementada?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Definición de métricas o KPIs",
+    "tags": ["metrics", "kpi", "measurement"]
+  },
+  {
+    "id": 49,
+    "english": "Who are the key stakeholders we need to align with?",
+    "spanish": "¿Con qué stakeholders clave necesitamos alinearnos?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Identificación de actores clave",
+    "tags": ["stakeholders", "alignment", "communication"]
+  },
+  {
+    "id": 50,
+    "english": "What level of flexibility do we need in the solution?",
+    "spanish": "¿Qué nivel de flexibilidad necesitamos en la solución?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Evaluación de adaptabilidad futura",
+    "tags": ["flexibility", "design", "requirements"]
+  },
+  {
+    "id": 51,
+    "english": "Are there any future use cases we should keep in mind?",
+    "spanish": "¿Hay casos de uso futuros que debamos tener en mente?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Diseño pensando en evolución",
+    "tags": ["future", "use-cases", "scalability"]
+  },
+  {
+    "id": 52,
+    "english": "What level of auditability is required?",
+    "spanish": "¿Qué nivel de auditabilidad se requiere?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Análisis de trazabilidad y cumplimiento",
+    "tags": ["audit", "compliance", "traceability"]
+  },
+  {
+    "id": 53,
+    "english": "What are the expected peak hours or peak loads?",
+    "spanish": "¿Cuáles son las horas pico o cargas máximas esperadas?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Análisis de demanda máxima",
+    "tags": ["peak-load", "traffic", "performance"]
+  },
+  {
+    "id": 54,
+    "english": "Do we need to support multi-region or multi-country operations?",
+    "spanish": "¿Necesitamos soportar operaciones en múltiples regiones o países?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Evaluación de alcance geográfico",
+    "tags": ["multi-region", "global", "architecture"]
+  },
+  {
+    "id": 55,
+    "english": "What are the most important priorities: speed, cost, security, or scalability?",
+    "spanish": "¿Cuáles son las prioridades más importantes: velocidad, costo, seguridad o escalabilidad?",
+    "section": "Entendimiento de requerimientos",
+    "context": "Priorización de trade-offs",
+    "tags": ["priorities", "tradeoffs", "architecture"]
+  },
+  {
+    "id": 56,
+    "english": "This architecture is based on a microservices approach.",
+    "spanish": "Esta arquitectura está basada en un enfoque de microservicios.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Definición del estilo arquitectónico",
+    "tags": ["architecture", "microservices"]
+  },
+  {
+    "id": 57,
+    "english": "We separated the system into independent components.",
+    "spanish": "Separamos el sistema en componentes independientes.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Descomposición del sistema",
+    "tags": ["components", "modularity"]
+  },
+  {
+    "id": 58,
+    "english": "Each service is responsible for a specific domain.",
+    "spanish": "Cada servicio es responsable de un dominio específico.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Definición de responsabilidades",
+    "tags": ["domain", "microservices"]
+  },
+  {
+    "id": 59,
+    "english": "The system is designed to be loosely coupled.",
+    "spanish": "El sistema está diseñado para ser débilmente acoplado.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Principios de diseño",
+    "tags": ["decoupling", "design"]
+  },
+  {
+    "id": 60,
+    "english": "We use an API gateway as the entry point.",
+    "spanish": "Usamos un API gateway como punto de entrada.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Arquitectura de entrada",
+    "tags": ["api", "gateway"]
+  },
+  {
+    "id": 61,
+    "english": "The frontend communicates with backend services through APIs.",
+    "spanish": "El frontend se comunica con los servicios backend a través de APIs.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Comunicación entre capas",
+    "tags": ["frontend", "backend", "api"]
+  },
+  {
+    "id": 62,
+    "english": "We introduced a layer of abstraction to simplify integrations.",
+    "spanish": "Introdujimos una capa de abstracción para simplificar las integraciones.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Diseño de capas",
+    "tags": ["abstraction", "integration"]
+  },
+  {
+    "id": 63,
+    "english": "The system follows a layered architecture.",
+    "spanish": "El sistema sigue una arquitectura por capas.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Tipo de arquitectura",
+    "tags": ["layers", "architecture"]
+  },
+  {
+    "id": 64,
+    "english": "We designed the system to be stateless.",
+    "spanish": "Diseñamos el sistema para ser sin estado.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Escalabilidad",
+    "tags": ["stateless", "scalability"]
+  },
+  {
+    "id": 65,
+    "english": "State is managed externally to improve scalability.",
+    "spanish": "El estado se maneja externamente para mejorar la escalabilidad.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Gestión de estado",
+    "tags": ["state", "scalability"]
+  },
+  {
+    "id": 66,
+    "english": "We designed the system to be horizontally scalable.",
+    "spanish": "Diseñamos el sistema para escalar horizontalmente.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Escalabilidad",
+    "tags": ["scalability", "horizontal"]
+  },
+  {
+    "id": 67,
+    "english": "Each component can scale independently.",
+    "spanish": "Cada componente puede escalar de forma independiente.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Escalabilidad modular",
+    "tags": ["scaling", "components"]
+  },
+  {
+    "id": 68,
+    "english": "We introduced caching to improve performance.",
+    "spanish": "Introdujimos caché para mejorar el rendimiento.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Optimización",
+    "tags": ["cache", "performance"]
+  },
+  {
+    "id": 69,
+    "english": "The system is designed to handle high concurrency.",
+    "spanish": "El sistema está diseñado para manejar alta concurrencia.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Diseño para carga",
+    "tags": ["concurrency", "performance"]
+  },
+  {
+    "id": 70,
+    "english": "We rely on asynchronous communication between services.",
+    "spanish": "Nos apoyamos en comunicación asincrónica entre servicios.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Comunicación entre servicios",
+    "tags": ["async", "integration"]
+  },
+  {
+    "id": 71,
+    "english": "The architecture is event-driven.",
+    "spanish": "La arquitectura es orientada a eventos.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Estilo arquitectónico",
+    "tags": ["event-driven"]
+  },
+  {
+    "id": 72,
+    "english": "We decoupled services using messaging.",
+    "spanish": "Desacoplamos los servicios usando mensajería.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Desacoplamiento",
+    "tags": ["messaging", "decoupling"]
+  },
+  {
+    "id": 73,
+    "english": "The system is built around domain-driven design principles.",
+    "spanish": "El sistema está construido alrededor de principios de domain-driven design.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Diseño orientado a dominio",
+    "tags": ["ddd", "domain"]
+  },
+  {
+    "id": 74,
+    "english": "We separated read and write operations.",
+    "spanish": "Separamos las operaciones de lectura y escritura.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "CQRS",
+    "tags": ["cqrs", "design"]
+  },
+  {
+    "id": 75,
+    "english": "We introduced a service layer to encapsulate business logic.",
+    "spanish": "Introdujimos una capa de servicios para encapsular la lógica de negocio.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Arquitectura por capas",
+    "tags": ["service-layer", "business"]
+  },
+  {
+    "id": 76,
+    "english": "The system is designed for high availability.",
+    "spanish": "El sistema está diseñado para alta disponibilidad.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Disponibilidad",
+    "tags": ["availability"]
+  },
+  {
+    "id": 77,
+    "english": "We implemented redundancy to avoid single points of failure.",
+    "spanish": "Implementamos redundancia para evitar puntos únicos de falla.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Alta disponibilidad",
+    "tags": ["redundancy", "resilience"]
+  },
+  {
+    "id": 78,
+    "english": "We designed the system with fault tolerance in mind.",
+    "spanish": "Diseñamos el sistema pensando en tolerancia a fallos.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Resiliencia",
+    "tags": ["fault-tolerance"]
+  },
+  {
+    "id": 79,
+    "english": "We minimized dependencies between services.",
+    "spanish": "Minimizamos las dependencias entre servicios.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Desacoplamiento",
+    "tags": ["dependencies", "decoupling"]
+  },
+  {
+    "id": 80,
+    "english": "The system is designed to evolve over time.",
+    "spanish": "El sistema está diseñado para evolucionar con el tiempo.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Evolución del sistema",
+    "tags": ["evolution", "design"]
+  },
+  {
+    "id": 81,
+    "english": "We use containerization to standardize deployments.",
+    "spanish": "Usamos contenedores para estandarizar despliegues.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Infraestructura",
+    "tags": ["containers", "deployment"]
+  },
+  {
+    "id": 82,
+    "english": "The system is deployed across multiple regions.",
+    "spanish": "El sistema está desplegado en múltiples regiones.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Arquitectura global",
+    "tags": ["multi-region", "availability"]
+  },
+  {
+    "id": 83,
+    "english": "We designed the system to isolate failures.",
+    "spanish": "Diseñamos el sistema para aislar fallos.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Resiliencia",
+    "tags": ["isolation", "resilience"]
+  },
+  {
+    "id": 84,
+    "english": "We ensured that services can fail independently.",
+    "spanish": "Nos aseguramos de que los servicios puedan fallar de forma independiente.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Desacoplamiento resiliente",
+    "tags": ["failure", "decoupling"]
+  },
+  {
+    "id": 85,
+    "english": "We introduced a messaging queue to buffer requests.",
+    "spanish": "Introdujimos una cola de mensajes para amortiguar solicitudes.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Gestión de carga",
+    "tags": ["queue", "buffer"]
+  },
+  {
+    "id": 86,
+    "english": "We designed the system to be cloud-native.",
+    "spanish": "Diseñamos el sistema para ser cloud-native.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Arquitectura cloud",
+    "tags": ["cloud-native"]
+  },
+  {
+    "id": 87,
+    "english": "We externalized configuration for flexibility.",
+    "spanish": "Externalizamos la configuración para mayor flexibilidad.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Configuración",
+    "tags": ["configuration", "flexibility"]
+  },
+  {
+    "id": 88,
+    "english": "We ensured backward compatibility in our design.",
+    "spanish": "Aseguramos compatibilidad hacia atrás en el diseño.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Evolución",
+    "tags": ["compatibility"]
+  },
+  {
+    "id": 89,
+    "english": "We designed APIs to be versioned.",
+    "spanish": "Diseñamos las APIs para ser versionadas.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Diseño de API",
+    "tags": ["api", "versioning"]
+  },
+  {
+    "id": 90,
+    "english": "We standardized communication protocols across services.",
+    "spanish": "Estandarizamos los protocolos de comunicación entre servicios.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Consistencia",
+    "tags": ["protocols", "integration"]
+  },
+  {
+    "id": 91,
+    "english": "We abstracted external dependencies.",
+    "spanish": "Abstrajimos las dependencias externas.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Diseño desacoplado",
+    "tags": ["abstraction", "dependencies"]
+  },
+  {
+    "id": 92,
+    "english": "We designed the system for maintainability.",
+    "spanish": "Diseñamos el sistema para ser mantenible.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Mantenibilidad",
+    "tags": ["maintainability"]
+  },
+  {
+    "id": 93,
+    "english": "We defined clear boundaries between services.",
+    "spanish": "Definimos límites claros entre servicios.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Arquitectura de microservicios",
+    "tags": ["boundaries", "services"]
+  },
+  {
+    "id": 94,
+    "english": "We designed the system to be extensible.",
+    "spanish": "Diseñamos el sistema para ser extensible.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Evolución futura",
+    "tags": ["extensibility"]
+  },
+  {
+    "id": 95,
+    "english": "We ensured consistency across services.",
+    "spanish": "Aseguramos consistencia entre servicios.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Consistencia",
+    "tags": ["consistency"]
+  },
+  {
+    "id": 96,
+    "english": "We prioritized simplicity in the design.",
+    "spanish": "Priorizamos la simplicidad en el diseño.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Principio de diseño",
+    "tags": ["simplicity"]
+  },
+  {
+    "id": 97,
+    "english": "We avoided over-engineering the solution.",
+    "spanish": "Evitamos sobre-ingenierizar la solución.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Optimización de diseño",
+    "tags": ["simplicity", "design"]
+  },
+  {
+    "id": 98,
+    "english": "We aligned the architecture with business priorities.",
+    "spanish": "Alineamos la arquitectura con las prioridades del negocio.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Alineación negocio",
+    "tags": ["business", "alignment"]
+  },
+  {
+    "id": 99,
+    "english": "We ensured the design supports future growth.",
+    "spanish": "Aseguramos que el diseño soporte crecimiento futuro.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Escalabilidad futura",
+    "tags": ["growth", "scalability"]
+  },
+  {
+    "id": 100,
+    "english": "We designed the system to be resilient under load.",
+    "spanish": "Diseñamos el sistema para ser resiliente bajo carga.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Alta carga",
+    "tags": ["resilience", "load"]
+  },
+  {
+    "id": 101,
+    "english": "We focused on reducing system complexity.",
+    "spanish": "Nos enfocamos en reducir la complejidad del sistema.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Simplificación",
+    "tags": ["complexity"]
+  },
+  {
+    "id": 102,
+    "english": "We ensured clear ownership of each component.",
+    "spanish": "Aseguramos una propiedad clara de cada componente.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Responsabilidad",
+    "tags": ["ownership"]
+  },
+  {
+    "id": 103,
+    "english": "We designed the system with modularity in mind.",
+    "spanish": "Diseñamos el sistema pensando en la modularidad.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Diseño modular",
+    "tags": ["modularity"]
+  },
+  {
+    "id": 104,
+    "english": "We leveraged cloud services to simplify the architecture.",
+    "spanish": "Aprovechamos servicios cloud para simplificar la arquitectura.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "Uso de cloud",
+    "tags": ["cloud", "simplification"]
+  },
+  {
+    "id": 105,
+    "english": "We structured the system to support continuous delivery.",
+    "spanish": "Estructuramos el sistema para soportar entrega continua.",
+    "section": "Diseño de arquitectura (alto nivel)",
+    "context": "DevOps",
+    "tags": ["ci-cd", "delivery"]
+  },
+  {
+    "id": 106,
+    "english": "We chose this approach to improve scalability.",
+    "spanish": "Elegimos este enfoque para mejorar la escalabilidad.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Justificación de decisiones arquitectónicas",
+    "tags": ["tradeoff", "scalability"]
+  },
+  {
+    "id": 107,
+    "english": "We prioritized simplicity over flexibility.",
+    "spanish": "Priorizamos la simplicidad sobre la flexibilidad.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Decisiones de diseño",
+    "tags": ["tradeoff", "simplicity"]
+  },
+  {
+    "id": 108,
+    "english": "This decision reduces operational complexity.",
+    "spanish": "Esta decisión reduce la complejidad operativa.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Optimización operativa",
+    "tags": ["complexity", "operations"]
+  },
+  {
+    "id": 109,
+    "english": "We accepted some latency in exchange for better scalability.",
+    "spanish": "Aceptamos cierta latencia a cambio de mejor escalabilidad.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Balance performance vs escala",
+    "tags": ["latency", "scalability", "tradeoff"]
+  },
+  {
+    "id": 110,
+    "english": "We chose consistency over availability for this component.",
+    "spanish": "Elegimos consistencia sobre disponibilidad para este componente.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "CAP theorem",
+    "tags": ["consistency", "availability", "cap"]
+  },
+  {
+    "id": 111,
+    "english": "This approach increases reliability but adds complexity.",
+    "spanish": "Este enfoque aumenta la confiabilidad pero agrega complejidad.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Evaluación de impacto",
+    "tags": ["reliability", "complexity"]
+  },
+  {
+    "id": 112,
+    "english": "We chose asynchronous communication to decouple services.",
+    "spanish": "Elegimos comunicación asincrónica para desacoplar servicios.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Diseño de integración",
+    "tags": ["async", "decoupling"]
+  },
+  {
+    "id": 113,
+    "english": "We avoided synchronous calls to reduce coupling.",
+    "spanish": "Evitamos llamadas síncronas para reducir el acoplamiento.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Optimización de diseño",
+    "tags": ["sync", "decoupling"]
+  },
+  {
+    "id": 114,
+    "english": "This solution favors performance over cost.",
+    "spanish": "Esta solución favorece el rendimiento sobre el costo.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Balance costo-performance",
+    "tags": ["performance", "cost"]
+  },
+  {
+    "id": 115,
+    "english": "We optimized for cost efficiency instead of performance.",
+    "spanish": "Optimizamos por eficiencia de costos en lugar de rendimiento.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Optimización económica",
+    "tags": ["cost", "performance"]
+  },
+  {
+    "id": 116,
+    "english": "We chose managed services to reduce operational overhead.",
+    "spanish": "Elegimos servicios administrados para reducir la carga operativa.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Cloud decisions",
+    "tags": ["managed", "operations"]
+  },
+  {
+    "id": 117,
+    "english": "We accepted vendor lock-in to accelerate delivery.",
+    "spanish": "Aceptamos el vendor lock-in para acelerar la entrega.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Decisiones cloud",
+    "tags": ["vendor-lock", "delivery"]
+  },
+  {
+    "id": 118,
+    "english": "We chose flexibility at the cost of increased complexity.",
+    "spanish": "Elegimos flexibilidad a costa de mayor complejidad.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Balance diseño",
+    "tags": ["flexibility", "complexity"]
+  },
+  {
+    "id": 119,
+    "english": "We introduced caching to improve response times.",
+    "spanish": "Introdujimos caché para mejorar los tiempos de respuesta.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Optimización performance",
+    "tags": ["cache", "performance"]
+  },
+  {
+    "id": 120,
+    "english": "We accepted eventual consistency for better scalability.",
+    "spanish": "Aceptamos consistencia eventual para mejor escalabilidad.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Distribuidos",
+    "tags": ["eventual-consistency", "scalability"]
+  },
+  {
+    "id": 121,
+    "english": "We reduced system dependencies to improve resilience.",
+    "spanish": "Reducimos dependencias del sistema para mejorar la resiliencia.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Resiliencia",
+    "tags": ["dependencies", "resilience"]
+  },
+  {
+    "id": 122,
+    "english": "We chose a simpler solution to reduce time to market.",
+    "spanish": "Elegimos una solución más simple para reducir el time to market.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Velocidad vs complejidad",
+    "tags": ["time-to-market", "simplicity"]
+  },
+  {
+    "id": 123,
+    "english": "We prioritized maintainability over performance.",
+    "spanish": "Priorizamos la mantenibilidad sobre el rendimiento.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Diseño sostenible",
+    "tags": ["maintainability", "performance"]
+  },
+  {
+    "id": 124,
+    "english": "We reduced duplication to simplify maintenance.",
+    "spanish": "Reducimos duplicación para simplificar el mantenimiento.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Clean architecture",
+    "tags": ["duplication", "maintenance"]
+  },
+  {
+    "id": 125,
+    "english": "We selected this technology due to team expertise.",
+    "spanish": "Seleccionamos esta tecnología debido a la experiencia del equipo.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Factor humano",
+    "tags": ["team", "technology"]
+  },
+  {
+    "id": 126,
+    "english": "We chose this design to minimize risk.",
+    "spanish": "Elegimos este diseño para minimizar riesgos.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Gestión de riesgos",
+    "tags": ["risk"]
+  },
+  {
+    "id": 127,
+    "english": "We avoided unnecessary complexity.",
+    "spanish": "Evitamos complejidad innecesaria.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Simplicidad",
+    "tags": ["simplicity"]
+  },
+  {
+    "id": 128,
+    "english": "We aligned the solution with business priorities.",
+    "spanish": "Alineamos la solución con las prioridades del negocio.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Negocio",
+    "tags": ["business", "alignment"]
+  },
+  {
+    "id": 129,
+    "english": "We evaluated multiple options before deciding.",
+    "spanish": "Evaluamos múltiples opciones antes de decidir.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Proceso de decisión",
+    "tags": ["evaluation"]
+  },
+  {
+    "id": 130,
+    "english": "We selected this approach for long-term scalability.",
+    "spanish": "Seleccionamos este enfoque para escalabilidad a largo plazo.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Escalabilidad futura",
+    "tags": ["scalability"]
+  },
+  {
+    "id": 131,
+    "english": "We optimized for reliability in this scenario.",
+    "spanish": "Optimizamos para confiabilidad en este escenario.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Resiliencia",
+    "tags": ["reliability"]
+  },
+  {
+    "id": 132,
+    "english": "We introduced retries to improve fault tolerance.",
+    "spanish": "Introdujimos reintentos para mejorar la tolerancia a fallos.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Resiliencia",
+    "tags": ["retry", "resilience"]
+  },
+  {
+    "id": 133,
+    "english": "We limited retries to avoid system overload.",
+    "spanish": "Limitamos los reintentos para evitar sobrecarga del sistema.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Control de carga",
+    "tags": ["retry", "load"]
+  },
+  {
+    "id": 134,
+    "english": "We introduced rate limiting to protect the system.",
+    "spanish": "Introdujimos rate limiting para proteger el sistema.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Protección",
+    "tags": ["rate-limit"]
+  },
+  {
+    "id": 135,
+    "english": "We accepted some redundancy to improve availability.",
+    "spanish": "Aceptamos cierta redundancia para mejorar disponibilidad.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Alta disponibilidad",
+    "tags": ["redundancy", "availability"]
+  },
+  {
+    "id": 136,
+    "english": "We chose this pattern for better maintainability.",
+    "spanish": "Elegimos este patrón para mejor mantenibilidad.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Patrones",
+    "tags": ["pattern", "maintainability"]
+  },
+  {
+    "id": 137,
+    "english": "We reduced dependencies to simplify deployments.",
+    "spanish": "Reducimos dependencias para simplificar despliegues.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "DevOps",
+    "tags": ["dependencies", "deployment"]
+  },
+  {
+    "id": 138,
+    "english": "We avoided tight coupling between components.",
+    "spanish": "Evitamos acoplamiento fuerte entre componentes.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Diseño",
+    "tags": ["coupling"]
+  },
+  {
+    "id": 139,
+    "english": "We chose this design for better extensibility.",
+    "spanish": "Elegimos este diseño para mejor extensibilidad.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Evolución",
+    "tags": ["extensibility"]
+  },
+  {
+    "id": 140,
+    "english": "We prioritized developer productivity.",
+    "spanish": "Priorizamos la productividad de los desarrolladores.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Equipo",
+    "tags": ["productivity"]
+  },
+  {
+    "id": 141,
+    "english": "We minimized operational effort.",
+    "spanish": "Minimizamos el esfuerzo operativo.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Operaciones",
+    "tags": ["operations"]
+  },
+  {
+    "id": 142,
+    "english": "We chose automation over manual processes.",
+    "spanish": "Elegimos automatización sobre procesos manuales.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "DevOps",
+    "tags": ["automation"]
+  },
+  {
+    "id": 143,
+    "english": "We balanced cost and performance.",
+    "spanish": "Balanceamos costo y rendimiento.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Optimización",
+    "tags": ["cost", "performance"]
+  },
+  {
+    "id": 144,
+    "english": "We reduced latency by introducing caching.",
+    "spanish": "Reducimos latencia introduciendo caché.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Performance",
+    "tags": ["latency", "cache"]
+  },
+  {
+    "id": 145,
+    "english": "We avoided unnecessary data processing.",
+    "spanish": "Evitamos procesamiento de datos innecesario.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Optimización",
+    "tags": ["data", "optimization"]
+  },
+  {
+    "id": 146,
+    "english": "We chose a modular design to improve flexibility.",
+    "spanish": "Elegimos un diseño modular para mejorar la flexibilidad.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Diseño",
+    "tags": ["modularity"]
+  },
+  {
+    "id": 147,
+    "english": "We selected this architecture to support future growth.",
+    "spanish": "Seleccionamos esta arquitectura para soportar crecimiento futuro.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Escalabilidad",
+    "tags": ["growth"]
+  },
+  {
+    "id": 148,
+    "english": "We avoided introducing unnecessary dependencies.",
+    "spanish": "Evitamos introducir dependencias innecesarias.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Diseño limpio",
+    "tags": ["dependencies"]
+  },
+  {
+    "id": 149,
+    "english": "We ensured that the system remains maintainable.",
+    "spanish": "Aseguramos que el sistema se mantenga mantenible.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Mantenimiento",
+    "tags": ["maintainability"]
+  },
+  {
+    "id": 150,
+    "english": "We designed the system to balance multiple trade-offs.",
+    "spanish": "Diseñamos el sistema para balancear múltiples trade-offs.",
+    "section": "Decisiones técnicas (trade-offs)",
+    "context": "Arquitectura general",
+    "tags": ["tradeoff"]
+  },
+  {
+    "id": 151,
+    "english": "Services communicate through well-defined APIs.",
+    "spanish": "Los servicios se comunican a través de APIs bien definidas.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Definición de integración entre servicios",
+    "tags": ["api", "integration"]
+  },
+  {
+    "id": 152,
+    "english": "We use REST APIs for synchronous communication.",
+    "spanish": "Usamos APIs REST para comunicación síncrona.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Integración directa",
+    "tags": ["rest", "sync"]
+  },
+  {
+    "id": 153,
+    "english": "We use messaging queues for asynchronous communication.",
+    "spanish": "Usamos colas de mensajes para comunicación asincrónica.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Integración desacoplada",
+    "tags": ["async", "queue"]
+  },
+  {
+    "id": 154,
+    "english": "The system relies on event-driven communication.",
+    "spanish": "El sistema se basa en comunicación orientada a eventos.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Arquitectura basada en eventos",
+    "tags": ["event-driven"]
+  },
+  {
+    "id": 155,
+    "english": "We use publish-subscribe patterns for integration.",
+    "spanish": "Usamos patrones publish-subscribe para integración.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Mensajería",
+    "tags": ["pubsub"]
+  },
+  {
+    "id": 156,
+    "english": "Each service exposes its functionality through APIs.",
+    "spanish": "Cada servicio expone su funcionalidad a través de APIs.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Arquitectura de microservicios",
+    "tags": ["api"]
+  },
+  {
+    "id": 157,
+    "english": "We ensure loose coupling between systems.",
+    "spanish": "Aseguramos un bajo acoplamiento entre sistemas.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Diseño desacoplado",
+    "tags": ["decoupling"]
+  },
+  {
+    "id": 158,
+    "english": "We use an API gateway to centralize access.",
+    "spanish": "Usamos un API gateway para centralizar el acceso.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Entrada al sistema",
+    "tags": ["api-gateway"]
+  },
+  {
+    "id": 159,
+    "english": "We standardized communication protocols.",
+    "spanish": "Estandarizamos los protocolos de comunicación.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Consistencia",
+    "tags": ["protocols"]
+  },
+  {
+    "id": 160,
+    "english": "We use JSON as the standard data format.",
+    "spanish": "Usamos JSON como formato estándar de datos.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Formato de datos",
+    "tags": ["json"]
+  },
+  {
+    "id": 161,
+    "english": "We ensure backward compatibility in APIs.",
+    "spanish": "Aseguramos compatibilidad hacia atrás en las APIs.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Versionado",
+    "tags": ["api", "versioning"]
+  },
+  {
+    "id": 162,
+    "english": "We version our APIs to avoid breaking changes.",
+    "spanish": "Versionamos nuestras APIs para evitar cambios disruptivos.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Evolución de APIs",
+    "tags": ["api", "versioning"]
+  },
+  {
+    "id": 163,
+    "english": "We validate requests at the API level.",
+    "spanish": "Validamos solicitudes a nivel de API.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Validación",
+    "tags": ["validation"]
+  },
+  {
+    "id": 164,
+    "english": "We use authentication and authorization mechanisms.",
+    "spanish": "Usamos mecanismos de autenticación y autorización.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Seguridad en integración",
+    "tags": ["auth", "security"]
+  },
+  {
+    "id": 165,
+    "english": "We implemented retries for failed requests.",
+    "spanish": "Implementamos reintentos para solicitudes fallidas.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Resiliencia",
+    "tags": ["retry"]
+  },
+  {
+    "id": 166,
+    "english": "We use circuit breakers to prevent cascading failures.",
+    "spanish": "Usamos circuit breakers para prevenir fallos en cascada.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Resiliencia",
+    "tags": ["circuit-breaker"]
+  },
+  {
+    "id": 167,
+    "english": "We introduced timeouts to control response times.",
+    "spanish": "Introdujimos timeouts para controlar tiempos de respuesta.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Control de latencia",
+    "tags": ["timeout"]
+  },
+  {
+    "id": 168,
+    "english": "We use batching to optimize data transfer.",
+    "spanish": "Usamos batching para optimizar transferencia de datos.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Optimización",
+    "tags": ["batch"]
+  },
+  {
+    "id": 169,
+    "english": "We use streaming for real-time data processing.",
+    "spanish": "Usamos streaming para procesamiento de datos en tiempo real.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Procesamiento",
+    "tags": ["streaming"]
+  },
+  {
+    "id": 170,
+    "english": "We integrated external services via APIs.",
+    "spanish": "Integramos servicios externos a través de APIs.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Integración externa",
+    "tags": ["external", "api"]
+  },
+  {
+    "id": 171,
+    "english": "We abstracted external integrations.",
+    "spanish": "Abstrajimos las integraciones externas.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Desacoplamiento",
+    "tags": ["abstraction"]
+  },
+  {
+    "id": 172,
+    "english": "We isolated third-party dependencies.",
+    "spanish": "Aislamos dependencias de terceros.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Resiliencia",
+    "tags": ["third-party"]
+  },
+  {
+    "id": 173,
+    "english": "We used adapters to integrate legacy systems.",
+    "spanish": "Usamos adaptadores para integrar sistemas legacy.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Legacy",
+    "tags": ["adapter", "legacy"]
+  },
+  {
+    "id": 174,
+    "english": "We normalized data across systems.",
+    "spanish": "Normalizamos datos entre sistemas.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Consistencia de datos",
+    "tags": ["data"]
+  },
+  {
+    "id": 175,
+    "english": "We ensured idempotency in operations.",
+    "spanish": "Aseguramos idempotencia en las operaciones.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Operaciones seguras",
+    "tags": ["idempotency"]
+  },
+  {
+    "id": 176,
+    "english": "We implemented data validation across services.",
+    "spanish": "Implementamos validación de datos entre servicios.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Calidad de datos",
+    "tags": ["validation"]
+  },
+  {
+    "id": 177,
+    "english": "We ensured consistency between distributed systems.",
+    "spanish": "Aseguramos consistencia entre sistemas distribuidos.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Sistemas distribuidos",
+    "tags": ["consistency"]
+  },
+  {
+    "id": 178,
+    "english": "We handled failures gracefully in integrations.",
+    "spanish": "Manejamos fallos de forma controlada en las integraciones.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Resiliencia",
+    "tags": ["failure"]
+  },
+  {
+    "id": 179,
+    "english": "We introduced dead-letter queues for failed messages.",
+    "spanish": "Introdujimos dead-letter queues para mensajes fallidos.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Mensajería",
+    "tags": ["dlq"]
+  },
+  {
+    "id": 180,
+    "english": "We ensured traceability across systems.",
+    "spanish": "Aseguramos trazabilidad entre sistemas.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Observabilidad",
+    "tags": ["traceability"]
+  },
+  {
+    "id": 181,
+    "english": "We logged all integration events.",
+    "spanish": "Registramos todos los eventos de integración.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Logging",
+    "tags": ["logging"]
+  },
+  {
+    "id": 182,
+    "english": "We monitored communication between services.",
+    "spanish": "Monitoreamos la comunicación entre servicios.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Monitoreo",
+    "tags": ["monitoring"]
+  },
+  {
+    "id": 183,
+    "english": "We secured communication using encryption.",
+    "spanish": "Aseguramos la comunicación usando cifrado.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Seguridad",
+    "tags": ["encryption"]
+  },
+  {
+    "id": 184,
+    "english": "We used HTTPS for all external communication.",
+    "spanish": "Usamos HTTPS para toda comunicación externa.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Seguridad",
+    "tags": ["https"]
+  },
+  {
+    "id": 185,
+    "english": "We ensured high availability in integrations.",
+    "spanish": "Aseguramos alta disponibilidad en las integraciones.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Disponibilidad",
+    "tags": ["availability"]
+  },
+  {
+    "id": 186,
+    "english": "We distributed traffic across services.",
+    "spanish": "Distribuimos el tráfico entre servicios.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Escalabilidad",
+    "tags": ["traffic"]
+  },
+  {
+    "id": 187,
+    "english": "We load-balanced incoming requests.",
+    "spanish": "Balanceamos las solicitudes entrantes.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Balanceo",
+    "tags": ["load-balancer"]
+  },
+  {
+    "id": 188,
+    "english": "We ensured scalability in integrations.",
+    "spanish": "Aseguramos escalabilidad en las integraciones.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Escalabilidad",
+    "tags": ["scalability"]
+  },
+  {
+    "id": 189,
+    "english": "We designed integrations to be fault-tolerant.",
+    "spanish": "Diseñamos las integraciones para ser tolerantes a fallos.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Resiliencia",
+    "tags": ["fault-tolerance"]
+  },
+  {
+    "id": 190,
+    "english": "We ensured interoperability between systems.",
+    "spanish": "Aseguramos interoperabilidad entre sistemas.",
+    "section": "Integración y comunicación entre sistemas",
+    "context": "Compatibilidad",
+    "tags": ["interoperability"]
+  },
+  {
+    "id": 191,
+    "english": "We deployed the application in a cloud environment.",
+    "spanish": "Desplegamos la aplicación en un entorno cloud.",
+    "section": "Cloud & infraestructura",
+    "context": "Descripción general de despliegue",
+    "tags": ["cloud", "deployment"]
+  },
+  {
+    "id": 192,
+    "english": "We use virtual networks to isolate resources.",
+    "spanish": "Usamos redes virtuales para aislar recursos.",
+    "section": "Cloud & infraestructura",
+    "context": "Redes",
+    "tags": ["vnet", "network"]
+  },
+  {
+    "id": 193,
+    "english": "Resources are deployed in private subnets.",
+    "spanish": "Los recursos se despliegan en subredes privadas.",
+    "section": "Cloud & infraestructura",
+    "context": "Seguridad de red",
+    "tags": ["subnet", "network"]
+  },
+  {
+    "id": 194,
+    "english": "We use load balancers to distribute traffic.",
+    "spanish": "Usamos balanceadores de carga para distribuir tráfico.",
+    "section": "Cloud & infraestructura",
+    "context": "Escalabilidad",
+    "tags": ["load-balancer"]
+  },
+  {
+    "id": 195,
+    "english": "We implemented auto-scaling for dynamic workloads.",
+    "spanish": "Implementamos auto-scaling para cargas dinámicas.",
+    "section": "Cloud & infraestructura",
+    "context": "Escalabilidad",
+    "tags": ["autoscaling"]
+  },
+  {
+    "id": 196,
+    "english": "We use managed services to reduce operational overhead.",
+    "spanish": "Usamos servicios administrados para reducir la carga operativa.",
+    "section": "Cloud & infraestructura",
+    "context": "Cloud strategy",
+    "tags": ["managed"]
+  },
+  {
+    "id": 197,
+    "english": "We deployed the system across multiple regions.",
+    "spanish": "Desplegamos el sistema en múltiples regiones.",
+    "section": "Cloud & infraestructura",
+    "context": "Alta disponibilidad",
+    "tags": ["multi-region"]
+  },
+  {
+    "id": 198,
+    "english": "We used a CDN to improve content delivery.",
+    "spanish": "Usamos un CDN para mejorar la entrega de contenido.",
+    "section": "Cloud & infraestructura",
+    "context": "Performance",
+    "tags": ["cdn"]
+  },
+  {
+    "id": 199,
+    "english": "We secured resources using network security groups.",
+    "spanish": "Aseguramos los recursos usando grupos de seguridad de red.",
+    "section": "Cloud & infraestructura",
+    "context": "Seguridad",
+    "tags": ["nsg"]
+  },
+  {
+    "id": 200,
+    "english": "We used private endpoints for secure communication.",
+    "spanish": "Usamos endpoints privados para comunicación segura.",
+    "section": "Cloud & infraestructura",
+    "context": "Seguridad",
+    "tags": ["private-endpoint"]
+  },
+  {
+    "id": 201,
+    "english": "We deployed containers using Kubernetes.",
+    "spanish": "Desplegamos contenedores usando Kubernetes.",
+    "section": "Cloud & infraestructura",
+    "context": "Orquestación",
+    "tags": ["kubernetes"]
+  },
+  {
+    "id": 202,
+    "english": "We used serverless functions for event-driven workloads.",
+    "spanish": "Usamos funciones serverless para cargas orientadas a eventos.",
+    "section": "Cloud & infraestructura",
+    "context": "Serverless",
+    "tags": ["serverless"]
+  },
+  {
+    "id": 203,
+    "english": "We provision infrastructure using Infrastructure as Code.",
+    "spanish": "Provisionamos infraestructura usando Infrastructure as Code.",
+    "section": "Cloud & infraestructura",
+    "context": "DevOps",
+    "tags": ["iac"]
+  },
+  {
+    "id": 204,
+    "english": "We automated deployments using pipelines.",
+    "spanish": "Automatizamos despliegues usando pipelines.",
+    "section": "Cloud & infraestructura",
+    "context": "CI/CD",
+    "tags": ["pipeline"]
+  },
+  {
+    "id": 205,
+    "english": "We configured environment variables for flexibility.",
+    "spanish": "Configuramos variables de entorno para mayor flexibilidad.",
+    "section": "Cloud & infraestructura",
+    "context": "Configuración",
+    "tags": ["config"]
+  },
+  {
+    "id": 206,
+    "english": "We isolated environments for development, staging, and production.",
+    "spanish": "Aislamos entornos para desarrollo, staging y producción.",
+    "section": "Cloud & infraestructura",
+    "context": "Ambientes",
+    "tags": ["environments"]
+  },
+  {
+    "id": 207,
+    "english": "We used cloud storage for scalable data management.",
+    "spanish": "Usamos almacenamiento cloud para gestión escalable de datos.",
+    "section": "Cloud & infraestructura",
+    "context": "Storage",
+    "tags": ["storage"]
+  },
+  {
+    "id": 208,
+    "english": "We ensured high availability using redundancy.",
+    "spanish": "Aseguramos alta disponibilidad usando redundancia.",
+    "section": "Cloud & infraestructura",
+    "context": "Disponibilidad",
+    "tags": ["redundancy"]
+  },
+  {
+    "id": 209,
+    "english": "We monitored infrastructure health in real time.",
+    "spanish": "Monitoreamos la salud de la infraestructura en tiempo real.",
+    "section": "Cloud & infraestructura",
+    "context": "Monitoreo",
+    "tags": ["monitoring"]
+  },
+  {
+    "id": 210,
+    "english": "We used logging services for observability.",
+    "spanish": "Usamos servicios de logging para observabilidad.",
+    "section": "Cloud & infraestructura",
+    "context": "Observabilidad",
+    "tags": ["logging"]
+  },
+  {
+    "id": 211,
+    "english": "We configured alerts for critical events.",
+    "spanish": "Configuramos alertas para eventos críticos.",
+    "section": "Cloud & infraestructura",
+    "context": "Monitoreo",
+    "tags": ["alerts"]
+  },
+  {
+    "id": 212,
+    "english": "We used DNS services for routing traffic.",
+    "spanish": "Usamos servicios DNS para enrutar tráfico.",
+    "section": "Cloud & infraestructura",
+    "context": "Networking",
+    "tags": ["dns"]
+  },
+  {
+    "id": 213,
+    "english": "We used edge services to reduce latency.",
+    "spanish": "Usamos servicios edge para reducir latencia.",
+    "section": "Cloud & infraestructura",
+    "context": "Performance",
+    "tags": ["edge"]
+  },
+  {
+    "id": 214,
+    "english": "We optimized resource usage to reduce costs.",
+    "spanish": "Optimizamos el uso de recursos para reducir costos.",
+    "section": "Cloud & infraestructura",
+    "context": "Optimización",
+    "tags": ["cost"]
+  },
+  {
+    "id": 215,
+    "english": "We configured scaling policies based on load.",
+    "spanish": "Configuramos políticas de escalado basadas en carga.",
+    "section": "Cloud & infraestructura",
+    "context": "Autoscaling",
+    "tags": ["scaling"]
+  },
+  {
+    "id": 216,
+    "english": "We ensured secure access to cloud resources.",
+    "spanish": "Aseguramos acceso seguro a los recursos cloud.",
+    "section": "Cloud & infraestructura",
+    "context": "Seguridad",
+    "tags": ["security"]
+  },
+  {
+    "id": 217,
+    "english": "We used identity and access management policies.",
+    "spanish": "Usamos políticas de identidad y acceso.",
+    "section": "Cloud & infraestructura",
+    "context": "IAM",
+    "tags": ["iam"]
+  },
+  {
+    "id": 218,
+    "english": "We restricted access using role-based permissions.",
+    "spanish": "Restringimos el acceso usando permisos basados en roles.",
+    "section": "Cloud & infraestructura",
+    "context": "Seguridad",
+    "tags": ["rbac"]
+  },
+  {
+    "id": 219,
+    "english": "We ensured encryption at rest and in transit.",
+    "spanish": "Aseguramos cifrado en reposo y en tránsito.",
+    "section": "Cloud & infraestructura",
+    "context": "Seguridad",
+    "tags": ["encryption"]
+  },
+  {
+    "id": 220,
+    "english": "We used backup strategies to protect data.",
+    "spanish": "Usamos estrategias de backup para proteger datos.",
+    "section": "Cloud & infraestructura",
+    "context": "Protección de datos",
+    "tags": ["backup"]
+  },
+  {
+    "id": 221,
+    "english": "We ensured disaster recovery capabilities.",
+    "spanish": "Aseguramos capacidades de recuperación ante desastres.",
+    "section": "Cloud & infraestructura",
+    "context": "DR",
+    "tags": ["disaster-recovery"]
+  },
+  {
+    "id": 222,
+    "english": "We configured failover mechanisms.",
+    "spanish": "Configuramos mecanismos de failover.",
+    "section": "Cloud & infraestructura",
+    "context": "Alta disponibilidad",
+    "tags": ["failover"]
+  },
+  {
+    "id": 223,
+    "english": "We optimized network performance.",
+    "spanish": "Optimizamos el rendimiento de la red.",
+    "section": "Cloud & infraestructura",
+    "context": "Networking",
+    "tags": ["network"]
+  },
+  {
+    "id": 224,
+    "english": "We minimized latency between services.",
+    "spanish": "Minimizamos la latencia entre servicios.",
+    "section": "Cloud & infraestructura",
+    "context": "Performance",
+    "tags": ["latency"]
+  },
+  {
+    "id": 225,
+    "english": "We designed infrastructure for elasticity.",
+    "spanish": "Diseñamos la infraestructura para elasticidad.",
+    "section": "Cloud & infraestructura",
+    "context": "Escalabilidad",
+    "tags": ["elasticity"]
+  },
+  {
+    "id": 226,
+    "english": "We ensured that infrastructure is highly available.",
+    "spanish": "Aseguramos que la infraestructura sea altamente disponible.",
+    "section": "Cloud & infraestructura",
+    "context": "Disponibilidad",
+    "tags": ["availability"]
+  },
+  {
+    "id": 227,
+    "english": "We used container registries to store images.",
+    "spanish": "Usamos registros de contenedores para almacenar imágenes.",
+    "section": "Cloud & infraestructura",
+    "context": "Contenedores",
+    "tags": ["registry"]
+  },
+  {
+    "id": 228,
+    "english": "We optimized deployments using blue-green strategies.",
+    "spanish": "Optimizamos despliegues usando estrategias blue-green.",
+    "section": "Cloud & infraestructura",
+    "context": "Deployment",
+    "tags": ["blue-green"]
+  },
+  {
+    "id": 229,
+    "english": "We implemented rolling updates to avoid downtime.",
+    "spanish": "Implementamos actualizaciones progresivas para evitar downtime.",
+    "section": "Cloud & infraestructura",
+    "context": "Deployment",
+    "tags": ["rolling-update"]
+  },
+  {
+    "id": 230,
+    "english": "We ensured observability across infrastructure.",
+    "spanish": "Aseguramos observabilidad en toda la infraestructura.",
+    "section": "Cloud & infraestructura",
+    "context": "Observabilidad",
+    "tags": ["observability"]
+  },
+  {
+    "id": 231,
+    "english": "We implemented authentication using secure protocols.",
+    "spanish": "Implementamos autenticación usando protocolos seguros.",
+    "section": "Seguridad",
+    "context": "Control de acceso",
+    "tags": ["authentication", "security"]
+  },
+  {
+    "id": 232,
+    "english": "We use token-based authentication for API access.",
+    "spanish": "Usamos autenticación basada en tokens para el acceso a APIs.",
+    "section": "Seguridad",
+    "context": "Seguridad de APIs",
+    "tags": ["token", "api", "auth"]
+  },
+  {
+    "id": 233,
+    "english": "We enforce role-based access control.",
+    "spanish": "Aplicamos control de acceso basado en roles.",
+    "section": "Seguridad",
+    "context": "Autorización",
+    "tags": ["rbac"]
+  },
+  {
+    "id": 234,
+    "english": "We restrict access based on user permissions.",
+    "spanish": "Restringimos el acceso según permisos de usuario.",
+    "section": "Seguridad",
+    "context": "Control de acceso",
+    "tags": ["authorization"]
+  },
+  {
+    "id": 235,
+    "english": "We secure communication using HTTPS.",
+    "spanish": "Aseguramos la comunicación usando HTTPS.",
+    "section": "Seguridad",
+    "context": "Transmisión segura",
+    "tags": ["https"]
+  },
+  {
+    "id": 236,
+    "english": "All sensitive data is encrypted at rest.",
+    "spanish": "Todos los datos sensibles están cifrados en reposo.",
+    "section": "Seguridad",
+    "context": "Protección de datos",
+    "tags": ["encryption"]
+  },
+  {
+    "id": 237,
+    "english": "We encrypt data in transit using TLS.",
+    "spanish": "Ciframos los datos en tránsito usando TLS.",
+    "section": "Seguridad",
+    "context": "Seguridad de red",
+    "tags": ["tls"]
+  },
+  {
+    "id": 238,
+    "english": "We store secrets in a centralized vault.",
+    "spanish": "Almacenamos secretos en un vault centralizado.",
+    "section": "Seguridad",
+    "context": "Gestión de secretos",
+    "tags": ["secrets", "vault"]
+  },
+  {
+    "id": 239,
+    "english": "We avoid hardcoding credentials in the codebase.",
+    "spanish": "Evitamos hardcodear credenciales en el código.",
+    "section": "Seguridad",
+    "context": "Buenas prácticas",
+    "tags": ["credentials"]
+  },
+  {
+    "id": 240,
+    "english": "We rotate credentials regularly.",
+    "spanish": "Rotamos credenciales regularmente.",
+    "section": "Seguridad",
+    "context": "Seguridad operativa",
+    "tags": ["rotation"]
+  },
+  {
+    "id": 241,
+    "english": "We implemented multi-factor authentication.",
+    "spanish": "Implementamos autenticación multifactor.",
+    "section": "Seguridad",
+    "context": "Autenticación fuerte",
+    "tags": ["mfa"]
+  },
+  {
+    "id": 242,
+    "english": "We validate all incoming requests.",
+    "spanish": "Validamos todas las solicitudes entrantes.",
+    "section": "Seguridad",
+    "context": "Protección",
+    "tags": ["validation"]
+  },
+  {
+    "id": 243,
+    "english": "We sanitize inputs to prevent injection attacks.",
+    "spanish": "Sanitizamos entradas para prevenir ataques de inyección.",
+    "section": "Seguridad",
+    "context": "Seguridad de aplicaciones",
+    "tags": ["injection"]
+  },
+  {
+    "id": 244,
+    "english": "We use firewalls to protect the network.",
+    "spanish": "Usamos firewalls para proteger la red.",
+    "section": "Seguridad",
+    "context": "Seguridad de red",
+    "tags": ["firewall"]
+  },
+  {
+    "id": 245,
+    "english": "We monitor suspicious activity.",
+    "spanish": "Monitoreamos actividad sospechosa.",
+    "section": "Seguridad",
+    "context": "Detección",
+    "tags": ["monitoring"]
+  },
+  {
+    "id": 246,
+    "english": "We log all access events for auditing.",
+    "spanish": "Registramos todos los accesos para auditoría.",
+    "section": "Seguridad",
+    "context": "Auditoría",
+    "tags": ["audit"]
+  },
+  {
+    "id": 247,
+    "english": "We ensure compliance with security standards.",
+    "spanish": "Aseguramos cumplimiento con estándares de seguridad.",
+    "section": "Seguridad",
+    "context": "Compliance",
+    "tags": ["compliance"]
+  },
+  {
+    "id": 248,
+    "english": "We use least privilege principles.",
+    "spanish": "Usamos principios de menor privilegio.",
+    "section": "Seguridad",
+    "context": "Control de acceso",
+    "tags": ["least-privilege"]
+  },
+  {
+    "id": 249,
+    "english": "We isolate critical components.",
+    "spanish": "Aislamos componentes críticos.",
+    "section": "Seguridad",
+    "context": "Seguridad de arquitectura",
+    "tags": ["isolation"]
+  },
+  {
+    "id": 250,
+    "english": "We secure APIs with authentication and rate limiting.",
+    "spanish": "Aseguramos APIs con autenticación y rate limiting.",
+    "section": "Seguridad",
+    "context": "Protección de APIs",
+    "tags": ["api", "security"]
+  },
+  {
+    "id": 251,
+    "english": "We protect against DDoS attacks.",
+    "spanish": "Protegemos contra ataques DDoS.",
+    "section": "Seguridad",
+    "context": "Seguridad de red",
+    "tags": ["ddos"]
+  },
+  {
+    "id": 252,
+    "english": "We use network segmentation for security.",
+    "spanish": "Usamos segmentación de red para seguridad.",
+    "section": "Seguridad",
+    "context": "Red",
+    "tags": ["network"]
+  },
+  {
+    "id": 253,
+    "english": "We regularly review access permissions.",
+    "spanish": "Revisamos regularmente los permisos de acceso.",
+    "section": "Seguridad",
+    "context": "Gestión de accesos",
+    "tags": ["permissions"]
+  },
+  {
+    "id": 254,
+    "english": "We ensure data privacy regulations are met.",
+    "spanish": "Aseguramos cumplimiento de regulaciones de privacidad.",
+    "section": "Seguridad",
+    "context": "Legal",
+    "tags": ["privacy"]
+  },
+  {
+    "id": 255,
+    "english": "We implemented security best practices across the system.",
+    "spanish": "Implementamos buenas prácticas de seguridad en todo el sistema.",
+    "section": "Seguridad",
+    "context": "Arquitectura general",
+    "tags": ["best-practices"]
+  },
+  {
+    "id": 256,
+    "english": "We ingest data from multiple sources into a central repository.",
+    "spanish": "Ingerimos datos de múltiples fuentes en un repositorio central.",
+    "section": "Datos y analítica",
+    "context": "Arquitectura de ingesta de datos",
+    "tags": ["data", "ingestion"]
+  },
+  {
+    "id": 257,
+    "english": "We store raw data in a data lake.",
+    "spanish": "Almacenamos datos en bruto en un data lake.",
+    "section": "Datos y analítica",
+    "context": "Almacenamiento",
+    "tags": ["data-lake"]
+  },
+  {
+    "id": 258,
+    "english": "We transform data before making it available for analytics.",
+    "spanish": "Transformamos los datos antes de ponerlos a disposición para analítica.",
+    "section": "Datos y analítica",
+    "context": "Procesamiento",
+    "tags": ["etl", "transformation"]
+  },
+  {
+    "id": 259,
+    "english": "We use ETL pipelines to process data.",
+    "spanish": "Usamos pipelines ETL para procesar datos.",
+    "section": "Datos y analítica",
+    "context": "Procesamiento",
+    "tags": ["etl"]
+  },
+  {
+    "id": 260,
+    "english": "We also support ELT for scalable processing.",
+    "spanish": "También soportamos ELT para procesamiento escalable.",
+    "section": "Datos y analítica",
+    "context": "Arquitectura de datos",
+    "tags": ["elt"]
+  },
+  {
+    "id": 261,
+    "english": "We use batch processing for large data volumes.",
+    "spanish": "Usamos procesamiento batch para grandes volúmenes de datos.",
+    "section": "Datos y analítica",
+    "context": "Procesamiento",
+    "tags": ["batch"]
+  },
+  {
+    "id": 262,
+    "english": "We use streaming for real-time data processing.",
+    "spanish": "Usamos streaming para procesamiento en tiempo real.",
+    "section": "Datos y analítica",
+    "context": "Tiempo real",
+    "tags": ["streaming"]
+  },
+  {
+    "id": 263,
+    "english": "We separate raw, processed, and curated data layers.",
+    "spanish": "Separamos capas de datos en bruto, procesados y curados.",
+    "section": "Datos y analítica",
+    "context": "Arquitectura de data lake",
+    "tags": ["layers"]
+  },
+  {
+    "id": 264,
+    "english": "We ensure data quality through validation rules.",
+    "spanish": "Aseguramos calidad de datos mediante reglas de validación.",
+    "section": "Datos y analítica",
+    "context": "Calidad de datos",
+    "tags": ["data-quality"]
+  },
+  {
+    "id": 265,
+    "english": "We handle missing or inconsistent data carefully.",
+    "spanish": "Manejamos datos faltantes o inconsistentes cuidadosamente.",
+    "section": "Datos y analítica",
+    "context": "Calidad",
+    "tags": ["data"]
+  },
+  {
+    "id": 266,
+    "english": "We normalize data before storing it.",
+    "spanish": "Normalizamos los datos antes de almacenarlos.",
+    "section": "Datos y analítica",
+    "context": "Procesamiento",
+    "tags": ["normalization"]
+  },
+  {
+    "id": 267,
+    "english": "We use data partitioning for scalability.",
+    "spanish": "Usamos particionamiento de datos para escalabilidad.",
+    "section": "Datos y analítica",
+    "context": "Optimización",
+    "tags": ["partitioning"]
+  },
+  {
+    "id": 268,
+    "english": "We optimize queries for better performance.",
+    "spanish": "Optimizamos consultas para mejor rendimiento.",
+    "section": "Datos y analítica",
+    "context": "Performance",
+    "tags": ["query"]
+  },
+  {
+    "id": 269,
+    "english": "We use indexing to speed up data access.",
+    "spanish": "Usamos índices para acelerar el acceso a datos.",
+    "section": "Datos y analítica",
+    "context": "Optimización",
+    "tags": ["index"]
+  },
+  {
+    "id": 270,
+    "english": "We ensure data consistency across systems.",
+    "spanish": "Aseguramos consistencia de datos entre sistemas.",
+    "section": "Datos y analítica",
+    "context": "Distribuidos",
+    "tags": ["consistency"]
+  },
+  {
+    "id": 271,
+    "english": "We use data lakes for large-scale storage.",
+    "spanish": "Usamos data lakes para almacenamiento a gran escala.",
+    "section": "Datos y analítica",
+    "context": "Storage",
+    "tags": ["data-lake"]
+  },
+  {
+    "id": 272,
+    "english": "We use data warehouses for analytics workloads.",
+    "spanish": "Usamos data warehouses para cargas analíticas.",
+    "section": "Datos y analítica",
+    "context": "Analítica",
+    "tags": ["data-warehouse"]
+  },
+  {
+    "id": 273,
+    "english": "We design schemas optimized for analytics.",
+    "spanish": "Diseñamos esquemas optimizados para analítica.",
+    "section": "Datos y analítica",
+    "context": "Modelado",
+    "tags": ["schema"]
+  },
+  {
+    "id": 274,
+    "english": "We denormalize data for faster queries.",
+    "spanish": "Desnormalizamos datos para consultas más rápidas.",
+    "section": "Datos y analítica",
+    "context": "Performance",
+    "tags": ["denormalization"]
+  },
+  {
+    "id": 275,
+    "english": "We track data lineage across pipelines.",
+    "spanish": "Rastreamos el linaje de datos a través de los pipelines.",
+    "section": "Datos y analítica",
+    "context": "Gobernanza",
+    "tags": ["lineage"]
+  },
+  {
+    "id": 276,
+    "english": "We ensure data governance policies are followed.",
+    "spanish": "Aseguramos que se sigan políticas de gobernanza de datos.",
+    "section": "Datos y analítica",
+    "context": "Gobernanza",
+    "tags": ["governance"]
+  },
+  {
+    "id": 277,
+    "english": "We use metadata to describe datasets.",
+    "spanish": "Usamos metadatos para describir datasets.",
+    "section": "Datos y analítica",
+    "context": "Gestión",
+    "tags": ["metadata"]
+  },
+  {
+    "id": 278,
+    "english": "We enable self-service analytics for business users.",
+    "spanish": "Habilitamos analítica self-service para usuarios de negocio.",
+    "section": "Datos y analítica",
+    "context": "Negocio",
+    "tags": ["analytics"]
+  },
+  {
+    "id": 279,
+    "english": "We ensure data availability for reporting.",
+    "spanish": "Aseguramos disponibilidad de datos para reporting.",
+    "section": "Datos y analítica",
+    "context": "Reporting",
+    "tags": ["availability"]
+  },
+  {
+    "id": 280,
+    "english": "We design pipelines to be scalable and resilient.",
+    "spanish": "Diseñamos pipelines para ser escalables y resilientes.",
+    "section": "Datos y analítica",
+    "context": "Arquitectura de datos",
+    "tags": ["pipeline"]
+  },
+  {
+    "id": 281,
+    "english": "We use CI/CD pipelines to automate deployments.",
+    "spanish": "Usamos pipelines CI/CD para automatizar despliegues.",
+    "section": "DevOps y despliegue",
+    "context": "Automatización de despliegues",
+    "tags": ["ci-cd", "deployment"]
+  },
+  {
+    "id": 282,
+    "english": "We deploy changes frequently using continuous delivery.",
+    "spanish": "Desplegamos cambios frecuentemente usando entrega continua.",
+    "section": "DevOps y despliegue",
+    "context": "Entrega continua",
+    "tags": ["cd"]
+  },
+  {
+    "id": 283,
+    "english": "We use version control for all code changes.",
+    "spanish": "Usamos control de versiones para todos los cambios de código.",
+    "section": "DevOps y despliegue",
+    "context": "Gestión de código",
+    "tags": ["git"]
+  },
+  {
+    "id": 284,
+    "english": "We trigger builds automatically on code commits.",
+    "spanish": "Disparamos builds automáticamente al hacer commits.",
+    "section": "DevOps y despliegue",
+    "context": "Automatización",
+    "tags": ["build"]
+  },
+  {
+    "id": 285,
+    "english": "We use pipelines to ensure consistent deployments.",
+    "spanish": "Usamos pipelines para asegurar despliegues consistentes.",
+    "section": "DevOps y despliegue",
+    "context": "Consistencia",
+    "tags": ["pipeline"]
+  },
+  {
+    "id": 286,
+    "english": "We deploy infrastructure using Infrastructure as Code.",
+    "spanish": "Desplegamos infraestructura usando Infrastructure as Code.",
+    "section": "DevOps y despliegue",
+    "context": "Infraestructura",
+    "tags": ["iac"]
+  },
+  {
+    "id": 287,
+    "english": "We use automated testing in the deployment pipeline.",
+    "spanish": "Usamos pruebas automatizadas en el pipeline de despliegue.",
+    "section": "DevOps y despliegue",
+    "context": "Testing",
+    "tags": ["testing"]
+  },
+  {
+    "id": 288,
+    "english": "We deploy applications in multiple environments.",
+    "spanish": "Desplegamos aplicaciones en múltiples entornos.",
+    "section": "DevOps y despliegue",
+    "context": "Ambientes",
+    "tags": ["environments"]
+  },
+  {
+    "id": 289,
+    "english": "We use staging environments before production.",
+    "spanish": "Usamos entornos de staging antes de producción.",
+    "section": "DevOps y despliegue",
+    "context": "Validación",
+    "tags": ["staging"]
+  },
+  {
+    "id": 290,
+    "english": "We use blue-green deployments to minimize downtime.",
+    "spanish": "Usamos despliegues blue-green para minimizar downtime.",
+    "section": "DevOps y despliegue",
+    "context": "Deployment",
+    "tags": ["blue-green"]
+  },
+  {
+    "id": 291,
+    "english": "We use canary releases to test changes gradually.",
+    "spanish": "Usamos canary releases para probar cambios gradualmente.",
+    "section": "DevOps y despliegue",
+    "context": "Deployment",
+    "tags": ["canary"]
+  },
+  {
+    "id": 292,
+    "english": "We roll back deployments if issues are detected.",
+    "spanish": "Revertimos despliegues si se detectan problemas.",
+    "section": "DevOps y despliegue",
+    "context": "Recuperación",
+    "tags": ["rollback"]
+  },
+  {
+    "id": 293,
+    "english": "We monitor deployments in real time.",
+    "spanish": "Monitoreamos despliegues en tiempo real.",
+    "section": "DevOps y despliegue",
+    "context": "Monitoreo",
+    "tags": ["monitoring"]
+  },
+  {
+    "id": 294,
+    "english": "We use feature flags to control releases.",
+    "spanish": "Usamos feature flags para controlar releases.",
+    "section": "DevOps y despliegue",
+    "context": "Release control",
+    "tags": ["feature-flags"]
+  },
+  {
+    "id": 295,
+    "english": "We automate infrastructure provisioning.",
+    "spanish": "Automatizamos el aprovisionamiento de infraestructura.",
+    "section": "DevOps y despliegue",
+    "context": "Infraestructura",
+    "tags": ["automation"]
+  },
+  {
+    "id": 296,
+    "english": "We use containers to standardize deployments.",
+    "spanish": "Usamos contenedores para estandarizar despliegues.",
+    "section": "DevOps y despliegue",
+    "context": "Contenedores",
+    "tags": ["containers"]
+  },
+  {
+    "id": 297,
+    "english": "We deploy services independently.",
+    "spanish": "Desplegamos servicios de forma independiente.",
+    "section": "DevOps y despliegue",
+    "context": "Microservicios",
+    "tags": ["microservices"]
+  },
+  {
+    "id": 298,
+    "english": "We use automated rollback mechanisms.",
+    "spanish": "Usamos mecanismos automáticos de rollback.",
+    "section": "DevOps y despliegue",
+    "context": "Resiliencia",
+    "tags": ["rollback"]
+  },
+  {
+    "id": 299,
+    "english": "We ensure deployments are repeatable.",
+    "spanish": "Aseguramos que los despliegues sean repetibles.",
+    "section": "DevOps y despliegue",
+    "context": "Consistencia",
+    "tags": ["deployment"]
+  },
+  {
+    "id": 300,
+    "english": "We track deployment metrics for performance.",
+    "spanish": "Monitoreamos métricas de despliegue para rendimiento.",
+    "section": "DevOps y despliegue",
+    "context": "Observabilidad",
+    "tags": ["metrics"]
+  },
+  {
+    "id": 301,
+    "english": "We reduce deployment time through automation.",
+    "spanish": "Reducimos el tiempo de despliegue mediante automatización.",
+    "section": "DevOps y despliegue",
+    "context": "Optimización",
+    "tags": ["automation"]
+  },
+  {
+    "id": 302,
+    "english": "We ensure zero-downtime deployments.",
+    "spanish": "Aseguramos despliegues sin downtime.",
+    "section": "DevOps y despliegue",
+    "context": "Alta disponibilidad",
+    "tags": ["zero-downtime"]
+  },
+  {
+    "id": 303,
+    "english": "We validate deployments before releasing to production.",
+    "spanish": "Validamos despliegues antes de liberar a producción.",
+    "section": "DevOps y despliegue",
+    "context": "Validación",
+    "tags": ["validation"]
+  },
+  {
+    "id": 304,
+    "english": "We use logs to troubleshoot deployment issues.",
+    "spanish": "Usamos logs para solucionar problemas de despliegue.",
+    "section": "DevOps y despliegue",
+    "context": "Debugging",
+    "tags": ["logs"]
+  },
+  {
+    "id": 305,
+    "english": "We ensure that deployments follow best practices.",
+    "spanish": "Aseguramos que los despliegues sigan buenas prácticas.",
+    "section": "DevOps y despliegue",
+    "context": "Estándares",
+    "tags": ["best-practices"]
+  },
+  {
+    "id": 306,
+    "english": "The system scales horizontally to handle increased load.",
+    "spanish": "El sistema escala horizontalmente para manejar mayor carga.",
+    "section": "Escalabilidad y performance",
+    "context": "Explicación de escalabilidad",
+    "tags": ["scalability", "horizontal"]
+  },
+  {
+    "id": 307,
+    "english": "We use auto-scaling to adjust resources dynamically.",
+    "spanish": "Usamos auto-scaling para ajustar recursos dinámicamente.",
+    "section": "Escalabilidad y performance",
+    "context": "Infraestructura",
+    "tags": ["autoscaling"]
+  },
+  {
+    "id": 308,
+    "english": "We designed the system to handle peak loads efficiently.",
+    "spanish": "Diseñamos el sistema para manejar cargas pico de forma eficiente.",
+    "section": "Escalabilidad y performance",
+    "context": "Carga máxima",
+    "tags": ["performance", "load"]
+  },
+  {
+    "id": 309,
+    "english": "We optimized response times using caching.",
+    "spanish": "Optimizamos los tiempos de respuesta usando caché.",
+    "section": "Escalabilidad y performance",
+    "context": "Optimización",
+    "tags": ["cache", "performance"]
+  },
+  {
+    "id": 310,
+    "english": "We minimized latency across services.",
+    "spanish": "Minimizamos la latencia entre servicios.",
+    "section": "Escalabilidad y performance",
+    "context": "Performance",
+    "tags": ["latency"]
+  },
+  {
+    "id": 311,
+    "english": "We use load balancing to distribute traffic evenly.",
+    "spanish": "Usamos balanceo de carga para distribuir tráfico equitativamente.",
+    "section": "Escalabilidad y performance",
+    "context": "Escalabilidad",
+    "tags": ["load-balancer"]
+  },
+  {
+    "id": 312,
+    "english": "We monitor system performance continuously.",
+    "spanish": "Monitoreamos el rendimiento del sistema continuamente.",
+    "section": "Escalabilidad y performance",
+    "context": "Monitoreo",
+    "tags": ["monitoring"]
+  },
+  {
+    "id": 313,
+    "english": "We identified bottlenecks and optimized them.",
+    "spanish": "Identificamos cuellos de botella y los optimizamos.",
+    "section": "Escalabilidad y performance",
+    "context": "Optimización",
+    "tags": ["bottleneck"]
+  },
+  {
+    "id": 314,
+    "english": "We use caching layers to reduce load on the database.",
+    "spanish": "Usamos capas de caché para reducir la carga en la base de datos.",
+    "section": "Escalabilidad y performance",
+    "context": "Optimización",
+    "tags": ["cache"]
+  },
+  {
+    "id": 315,
+    "english": "We optimized database queries for better performance.",
+    "spanish": "Optimizamos consultas de base de datos para mejor rendimiento.",
+    "section": "Escalabilidad y performance",
+    "context": "Base de datos",
+    "tags": ["database", "performance"]
+  },
+  {
+    "id": 316,
+    "english": "We used indexing to improve query speed.",
+    "spanish": "Usamos índices para mejorar la velocidad de consulta.",
+    "section": "Escalabilidad y performance",
+    "context": "Base de datos",
+    "tags": ["index"]
+  },
+  {
+    "id": 317,
+    "english": "We reduced response times by optimizing API calls.",
+    "spanish": "Reducimos tiempos de respuesta optimizando llamadas API.",
+    "section": "Escalabilidad y performance",
+    "context": "API performance",
+    "tags": ["api"]
+  },
+  {
+    "id": 318,
+    "english": "We use asynchronous processing to improve throughput.",
+    "spanish": "Usamos procesamiento asincrónico para mejorar el throughput.",
+    "section": "Escalabilidad y performance",
+    "context": "Performance",
+    "tags": ["async", "throughput"]
+  },
+  {
+    "id": 319,
+    "english": "We designed the system to handle concurrency efficiently.",
+    "spanish": "Diseñamos el sistema para manejar concurrencia eficientemente.",
+    "section": "Escalabilidad y performance",
+    "context": "Concurrencia",
+    "tags": ["concurrency"]
+  },
+  {
+    "id": 320,
+    "english": "We optimized resource usage to improve performance.",
+    "spanish": "Optimizamos el uso de recursos para mejorar el rendimiento.",
+    "section": "Escalabilidad y performance",
+    "context": "Infraestructura",
+    "tags": ["optimization"]
+  },
+  {
+    "id": 321,
+    "english": "We reduced unnecessary computations.",
+    "spanish": "Reducimos cálculos innecesarios.",
+    "section": "Escalabilidad y performance",
+    "context": "Optimización",
+    "tags": ["efficiency"]
+  },
+  {
+    "id": 322,
+    "english": "We ensured the system can scale under heavy load.",
+    "spanish": "Aseguramos que el sistema pueda escalar bajo alta carga.",
+    "section": "Escalabilidad y performance",
+    "context": "Escalabilidad",
+    "tags": ["scalability"]
+  },
+  {
+    "id": 323,
+    "english": "We optimized network performance.",
+    "spanish": "Optimizamos el rendimiento de red.",
+    "section": "Escalabilidad y performance",
+    "context": "Red",
+    "tags": ["network"]
+  },
+  {
+    "id": 324,
+    "english": "We reduced latency using edge services.",
+    "spanish": "Reducimos latencia usando servicios edge.",
+    "section": "Escalabilidad y performance",
+    "context": "Performance",
+    "tags": ["edge"]
+  },
+  {
+    "id": 325,
+    "english": "We ensured consistent performance across environments.",
+    "spanish": "Aseguramos rendimiento consistente entre entornos.",
+    "section": "Escalabilidad y performance",
+    "context": "Consistencia",
+    "tags": ["performance"]
+  },
+  {
+    "id": 326,
+    "english": "We measured system performance using metrics.",
+    "spanish": "Medimos el rendimiento del sistema usando métricas.",
+    "section": "Escalabilidad y performance",
+    "context": "Monitoreo",
+    "tags": ["metrics"]
+  },
+  {
+    "id": 327,
+    "english": "We identified performance issues early.",
+    "spanish": "Identificamos problemas de rendimiento tempranamente.",
+    "section": "Escalabilidad y performance",
+    "context": "Diagnóstico",
+    "tags": ["performance"]
+  },
+  {
+    "id": 328,
+    "english": "We ensured optimal resource allocation.",
+    "spanish": "Aseguramos asignación óptima de recursos.",
+    "section": "Escalabilidad y performance",
+    "context": "Infraestructura",
+    "tags": ["resources"]
+  },
+  {
+    "id": 329,
+    "english": "We used profiling tools to analyze performance.",
+    "spanish": "Usamos herramientas de profiling para analizar rendimiento.",
+    "section": "Escalabilidad y performance",
+    "context": "Diagnóstico",
+    "tags": ["profiling"]
+  },
+  {
+    "id": 330,
+    "english": "We ensured scalability without compromising performance.",
+    "spanish": "Aseguramos escalabilidad sin comprometer rendimiento.",
+    "section": "Escalabilidad y performance",
+    "context": "Balance",
+    "tags": ["scalability", "performance"]
+  },
+  {
+    "id": 331,
+    "english": "We implemented retries to handle transient failures.",
+    "spanish": "Implementamos reintentos para manejar fallos transitorios.",
+    "section": "Manejo de errores y resiliencia",
+    "context": "Recuperación ante fallos temporales",
+    "tags": ["retry", "resilience"]
+  },
+  {
+    "id": 332,
+    "english": "We use exponential backoff for retry strategies.",
+    "spanish": "Usamos backoff exponencial para estrategias de reintento.",
+    "section": "Manejo de errores y resiliencia",
+    "context": "Control de reintentos",
+    "tags": ["retry", "backoff"]
+  },
+  {
+    "id": 333,
+    "english": "We implemented circuit breakers to prevent cascading failures.",
+    "spanish": "Implementamos circuit breakers para prevenir fallos en cascada.",
+    "section": "Manejo de errores y resiliencia",
+    "context": "Protección del sistema",
+    "tags": ["circuit-breaker"]
+  },
+  {
+    "id": 334,
+    "english": "We handle failures gracefully without affecting users.",
+    "spanish": "Manejamos fallos de forma controlada sin afectar a los usuarios.",
+    "section": "Manejo de errores y resiliencia",
+    "context": "Experiencia de usuario",
+    "tags": ["failure"]
+  },
+  {
+    "id": 335,
+    "english": "We designed fallback mechanisms for critical services.",
+    "spanish": "Diseñamos mecanismos de fallback para servicios críticos.",
+    "section": "Manejo de errores y resiliencia",
+    "context": "Alta disponibilidad",
+    "tags": ["fallback"]
+  },
+  {
+    "id": 336,
+    "english": "We use timeouts to avoid long waiting times.",
+    "spanish": "Usamos timeouts para evitar tiempos de espera largos.",
+    "section": "Manejo de errores y resiliencia",
+    "context": "Control de latencia",
+    "tags": ["timeout"]
+  },
+  {
+    "id": 337,
+    "english": "We isolate failures to prevent system-wide impact.",
+    "spanish": "Aislamos fallos para evitar impacto en todo el sistema.",
+    "section": "Manejo de errores y resiliencia",
+    "context": "Arquitectura resiliente",
+    "tags": ["isolation"]
+  },
+  {
+    "id": 338,
+    "english": "We use dead-letter queues for failed messages.",
+    "spanish": "Usamos dead-letter queues para mensajes fallidos.",
+    "section": "Manejo de errores y resiliencia",
+    "context": "Mensajería",
+    "tags": ["dlq"]
+  },
+  {
+    "id": 339,
+    "english": "We log all errors for troubleshooting.",
+    "spanish": "Registramos todos los errores para troubleshooting.",
+    "section": "Manejo de errores y resiliencia",
+    "context": "Debugging",
+    "tags": ["logging"]
+  },
+  {
+    "id": 340,
+    "english": "We monitor error rates in real time.",
+    "spanish": "Monitoreamos tasas de error en tiempo real.",
+    "section": "Manejo de errores y resiliencia",
+    "context": "Monitoreo",
+    "tags": ["monitoring"]
+  },
+  {
+    "id": 341,
+    "english": "We implement idempotency to avoid duplicate operations.",
+    "spanish": "Implementamos idempotencia para evitar operaciones duplicadas.",
+    "section": "Manejo de errores y resiliencia",
+    "context": "Seguridad de operaciones",
+    "tags": ["idempotency"]
+  },
+  {
+    "id": 342,
+    "english": "We ensure systems can recover automatically from failures.",
+    "spanish": "Aseguramos que los sistemas puedan recuperarse automáticamente de fallos.",
+    "section": "Manejo de errores y resiliencia",
+    "context": "Recuperación automática",
+    "tags": ["recovery"]
+  },
+  {
+    "id": 343,
+    "english": "We use redundancy to improve system resilience.",
+    "spanish": "Usamos redundancia para mejorar la resiliencia del sistema.",
+    "section": "Manejo de errores y resiliencia",
+    "context": "Alta disponibilidad",
+    "tags": ["redundancy"]
+  },
+  {
+    "id": 344,
+    "english": "We avoid single points of failure.",
+    "spanish": "Evitamos puntos únicos de falla.",
+    "section": "Manejo de errores y resiliencia",
+    "context": "Diseño resiliente",
+    "tags": ["spoF"]
+  },
+  {
+    "id": 345,
+    "english": "We design systems to degrade gracefully under load.",
+    "spanish": "Diseñamos sistemas para degradarse de forma controlada bajo carga.",
+    "section": "Manejo de errores y resiliencia",
+    "context": "Alta carga",
+    "tags": ["degradation"]
+  },
+  {
+    "id": 346,
+    "english": "We validate error handling in testing environments.",
+    "spanish": "Validamos el manejo de errores en entornos de prueba.",
+    "section": "Manejo de errores y resiliencia",
+    "context": "Testing",
+    "tags": ["testing"]
+  },
+  {
+    "id": 347,
+    "english": "We use health checks to detect failures early.",
+    "spanish": "Usamos health checks para detectar fallos tempranamente.",
+    "section": "Manejo de errores y resiliencia",
+    "context": "Monitoreo",
+    "tags": ["health-check"]
+  },
+  {
+    "id": 348,
+    "english": "We implement failover strategies for critical systems.",
+    "spanish": "Implementamos estrategias de failover para sistemas críticos.",
+    "section": "Manejo de errores y resiliencia",
+    "context": "Alta disponibilidad",
+    "tags": ["failover"]
+  },
+  {
+    "id": 349,
+    "english": "We ensure systems can tolerate partial failures.",
+    "spanish": "Aseguramos que los sistemas puedan tolerar fallos parciales.",
+    "section": "Manejo de errores y resiliencia",
+    "context": "Sistemas distribuidos",
+    "tags": ["fault-tolerance"]
+  },
+  {
+    "id": 350,
+    "english": "We continuously improve resilience through testing and monitoring.",
+    "spanish": "Mejoramos continuamente la resiliencia mediante testing y monitoreo.",
+    "section": "Manejo de errores y resiliencia",
+    "context": "Mejora continua",
+    "tags": ["resilience"]
+  },
+  {
+    "id": 351,
+    "english": "We monitor system health in real time.",
+    "spanish": "Monitoreamos la salud del sistema en tiempo real.",
+    "section": "Observabilidad y monitoreo",
+    "context": "Supervisión continua",
+    "tags": ["monitoring", "health"]
+  },
+  {
+    "id": 352,
+    "english": "We collect metrics to measure system performance.",
+    "spanish": "Recolectamos métricas para medir el rendimiento del sistema.",
+    "section": "Observabilidad y monitoreo",
+    "context": "Medición",
+    "tags": ["metrics"]
+  },
+  {
+    "id": 353,
+    "english": "We use logs to troubleshoot issues.",
+    "spanish": "Usamos logs para diagnosticar problemas.",
+    "section": "Observabilidad y monitoreo",
+    "context": "Debugging",
+    "tags": ["logging"]
+  },
+  {
+    "id": 354,
+    "english": "We implemented centralized logging.",
+    "spanish": "Implementamos logging centralizado.",
+    "section": "Observabilidad y monitoreo",
+    "context": "Arquitectura",
+    "tags": ["logging"]
+  },
+  {
+    "id": 355,
+    "english": "We use distributed tracing to track requests.",
+    "spanish": "Usamos trazabilidad distribuida para rastrear solicitudes.",
+    "section": "Observabilidad y monitoreo",
+    "context": "Tracing",
+    "tags": ["tracing"]
+  },
+  {
+    "id": 356,
+    "english": "We correlate logs across services.",
+    "spanish": "Correlacionamos logs entre servicios.",
+    "section": "Observabilidad y monitoreo",
+    "context": "Sistemas distribuidos",
+    "tags": ["logs"]
+  },
+  {
+    "id": 357,
+    "english": "We monitor latency and response times.",
+    "spanish": "Monitoreamos latencia y tiempos de respuesta.",
+    "section": "Observabilidad y monitoreo",
+    "context": "Performance",
+    "tags": ["latency"]
+  },
+  {
+    "id": 358,
+    "english": "We track error rates across the system.",
+    "spanish": "Monitoreamos tasas de error en el sistema.",
+    "section": "Observabilidad y monitoreo",
+    "context": "Errores",
+    "tags": ["errors"]
+  },
+  {
+    "id": 359,
+    "english": "We use dashboards to visualize system metrics.",
+    "spanish": "Usamos dashboards para visualizar métricas del sistema.",
+    "section": "Observabilidad y monitoreo",
+    "context": "Visualización",
+    "tags": ["dashboard"]
+  },
+  {
+    "id": 360,
+    "english": "We configure alerts for critical events.",
+    "spanish": "Configuramos alertas para eventos críticos.",
+    "section": "Observabilidad y monitoreo",
+    "context": "Alertas",
+    "tags": ["alerts"]
+  },
+  {
+    "id": 361,
+    "english": "We ensure proactive monitoring of system issues.",
+    "spanish": "Aseguramos monitoreo proactivo de problemas del sistema.",
+    "section": "Observabilidad y monitoreo",
+    "context": "Prevención",
+    "tags": ["monitoring"]
+  },
+  {
+    "id": 362,
+    "english": "We analyze trends to predict potential issues.",
+    "spanish": "Analizamos tendencias para predecir problemas potenciales.",
+    "section": "Observabilidad y monitoreo",
+    "context": "Análisis",
+    "tags": ["analysis"]
+  },
+  {
+    "id": 363,
+    "english": "We instrument services for better observability.",
+    "spanish": "Instrumentamos servicios para mejor observabilidad.",
+    "section": "Observabilidad y monitoreo",
+    "context": "Arquitectura",
+    "tags": ["observability"]
+  },
+  {
+    "id": 364,
+    "english": "We capture detailed logs for debugging.",
+    "spanish": "Capturamos logs detallados para debugging.",
+    "section": "Observabilidad y monitoreo",
+    "context": "Debugging",
+    "tags": ["logging"]
+  },
+  {
+    "id": 365,
+    "english": "We monitor system throughput.",
+    "spanish": "Monitoreamos el throughput del sistema.",
+    "section": "Observabilidad y monitoreo",
+    "context": "Performance",
+    "tags": ["throughput"]
+  },
+  {
+    "id": 366,
+    "english": "We use health checks to monitor service status.",
+    "spanish": "Usamos health checks para monitorear el estado de los servicios.",
+    "section": "Observabilidad y monitoreo",
+    "context": "Monitoreo",
+    "tags": ["health-check"]
+  },
+  {
+    "id": 367,
+    "english": "We track system availability metrics.",
+    "spanish": "Monitoreamos métricas de disponibilidad del sistema.",
+    "section": "Observabilidad y monitoreo",
+    "context": "Disponibilidad",
+    "tags": ["availability"]
+  },
+  {
+    "id": 368,
+    "english": "We monitor resource utilization.",
+    "spanish": "Monitoreamos el uso de recursos.",
+    "section": "Observabilidad y monitoreo",
+    "context": "Infraestructura",
+    "tags": ["resources"]
+  },
+  {
+    "id": 369,
+    "english": "We use observability tools to gain insights.",
+    "spanish": "Usamos herramientas de observabilidad para obtener insights.",
+    "section": "Observabilidad y monitoreo",
+    "context": "Análisis",
+    "tags": ["observability"]
+  },
+  {
+    "id": 370,
+    "english": "We continuously improve monitoring based on feedback.",
+    "spanish": "Mejoramos continuamente el monitoreo basado en feedback.",
+    "section": "Observabilidad y monitoreo",
+    "context": "Mejora continua",
+    "tags": ["monitoring"]
+  },
+  {
+    "id": 371,
+    "english": "We perform unit testing to validate individual components.",
+    "spanish": "Realizamos pruebas unitarias para validar componentes individuales.",
+    "section": "Testing y calidad",
+    "context": "Pruebas básicas",
+    "tags": ["unit-test"]
+  },
+  {
+    "id": 372,
+    "english": "We use integration tests to validate interactions between services.",
+    "spanish": "Usamos pruebas de integración para validar interacciones entre servicios.",
+    "section": "Testing y calidad",
+    "context": "Pruebas entre sistemas",
+    "tags": ["integration-test"]
+  },
+  {
+    "id": 373,
+    "english": "We perform end-to-end testing for critical flows.",
+    "spanish": "Realizamos pruebas end-to-end para flujos críticos.",
+    "section": "Testing y calidad",
+    "context": "Flujos completos",
+    "tags": ["e2e"]
+  },
+  {
+    "id": 374,
+    "english": "We ensure test coverage across the codebase.",
+    "spanish": "Aseguramos cobertura de pruebas en todo el código.",
+    "section": "Testing y calidad",
+    "context": "Cobertura",
+    "tags": ["coverage"]
+  },
+  {
+    "id": 375,
+    "english": "We automate tests as part of the CI/CD pipeline.",
+    "spanish": "Automatizamos pruebas como parte del pipeline CI/CD.",
+    "section": "Testing y calidad",
+    "context": "Automatización",
+    "tags": ["automation"]
+  },
+  {
+    "id": 376,
+    "english": "We validate business logic through testing.",
+    "spanish": "Validamos la lógica de negocio mediante pruebas.",
+    "section": "Testing y calidad",
+    "context": "Validación",
+    "tags": ["business"]
+  },
+  {
+    "id": 377,
+    "english": "We perform regression testing to avoid breaking changes.",
+    "spanish": "Realizamos pruebas de regresión para evitar errores.",
+    "section": "Testing y calidad",
+    "context": "Regresión",
+    "tags": ["regression"]
+  },
+  {
+    "id": 378,
+    "english": "We test edge cases to ensure robustness.",
+    "spanish": "Probamos casos extremos para asegurar robustez.",
+    "section": "Testing y calidad",
+    "context": "Calidad",
+    "tags": ["edge-cases"]
+  },
+  {
+    "id": 379,
+    "english": "We simulate real-world scenarios during testing.",
+    "spanish": "Simulamos escenarios reales durante las pruebas.",
+    "section": "Testing y calidad",
+    "context": "Escenarios",
+    "tags": ["simulation"]
+  },
+  {
+    "id": 380,
+    "english": "We use mocking to isolate components in tests.",
+    "spanish": "Usamos mocks para aislar componentes en pruebas.",
+    "section": "Testing y calidad",
+    "context": "Pruebas unitarias",
+    "tags": ["mock"]
+  },
+  {
+    "id": 381,
+    "english": "We ensure data consistency during testing.",
+    "spanish": "Aseguramos consistencia de datos durante las pruebas.",
+    "section": "Testing y calidad",
+    "context": "Datos",
+    "tags": ["data"]
+  },
+  {
+    "id": 382,
+    "english": "We validate API contracts through testing.",
+    "spanish": "Validamos contratos de API mediante pruebas.",
+    "section": "Testing y calidad",
+    "context": "APIs",
+    "tags": ["api"]
+  },
+  {
+    "id": 383,
+    "english": "We use performance testing to evaluate system limits.",
+    "spanish": "Usamos pruebas de performance para evaluar límites del sistema.",
+    "section": "Testing y calidad",
+    "context": "Performance",
+    "tags": ["performance"]
+  },
+  {
+    "id": 384,
+    "english": "We run load testing to simulate high traffic.",
+    "spanish": "Ejecutamos pruebas de carga para simular alto tráfico.",
+    "section": "Testing y calidad",
+    "context": "Escalabilidad",
+    "tags": ["load-test"]
+  },
+  {
+    "id": 385,
+    "english": "We use stress testing to identify breaking points.",
+    "spanish": "Usamos pruebas de estrés para identificar límites del sistema.",
+    "section": "Testing y calidad",
+    "context": "Performance",
+    "tags": ["stress-test"]
+  },
+  {
+    "id": 386,
+    "english": "We ensure tests are repeatable and reliable.",
+    "spanish": "Aseguramos que las pruebas sean repetibles y confiables.",
+    "section": "Testing y calidad",
+    "context": "Calidad",
+    "tags": ["reliability"]
+  },
+  {
+    "id": 387,
+    "english": "We identify defects early in the development process.",
+    "spanish": "Identificamos defectos temprano en el proceso de desarrollo.",
+    "section": "Testing y calidad",
+    "context": "Shift-left",
+    "tags": ["defects"]
+  },
+  {
+    "id": 388,
+    "english": "We ensure high-quality code through testing practices.",
+    "spanish": "Aseguramos código de alta calidad mediante prácticas de testing.",
+    "section": "Testing y calidad",
+    "context": "Calidad",
+    "tags": ["quality"]
+  },
+  {
+    "id": 389,
+    "english": "We review test results to identify improvements.",
+    "spanish": "Revisamos resultados de pruebas para identificar mejoras.",
+    "section": "Testing y calidad",
+    "context": "Mejora continua",
+    "tags": ["analysis"]
+  },
+  {
+    "id": 390,
+    "english": "We continuously improve testing strategies.",
+    "spanish": "Mejoramos continuamente las estrategias de testing.",
+    "section": "Testing y calidad",
+    "context": "Mejora continua",
+    "tags": ["testing"]
+  },
+  {
+    "id": 391,
+    "english": "We collaborate closely with stakeholders to align expectations.",
+    "spanish": "Colaboramos estrechamente con stakeholders para alinear expectativas.",
+    "section": "Colaboración y gestión",
+    "context": "Alineación con negocio",
+    "tags": ["stakeholders", "alignment"]
+  },
+  {
+    "id": 392,
+    "english": "We ensure clear communication across teams.",
+    "spanish": "Aseguramos comunicación clara entre equipos.",
+    "section": "Colaboración y gestión",
+    "context": "Trabajo en equipo",
+    "tags": ["communication"]
+  },
+  {
+    "id": 393,
+    "english": "We coordinate efforts between development and operations teams.",
+    "spanish": "Coordinamos esfuerzos entre equipos de desarrollo y operaciones.",
+    "section": "Colaboración y gestión",
+    "context": "DevOps",
+    "tags": ["coordination"]
+  },
+  {
+    "id": 394,
+    "english": "We facilitate discussions to clarify requirements.",
+    "spanish": "Facilitamos discusiones para aclarar requerimientos.",
+    "section": "Colaboración y gestión",
+    "context": "Discovery",
+    "tags": ["requirements"]
+  },
+  {
+    "id": 395,
+    "english": "We align technical decisions with business priorities.",
+    "spanish": "Alineamos decisiones técnicas con prioridades del negocio.",
+    "section": "Colaboración y gestión",
+    "context": "Negocio",
+    "tags": ["business"]
+  },
+  {
+    "id": 396,
+    "english": "We provide guidance to development teams.",
+    "spanish": "Brindamos guía a los equipos de desarrollo.",
+    "section": "Colaboración y gestión",
+    "context": "Liderazgo",
+    "tags": ["leadership"]
+  },
+  {
+    "id": 397,
+    "english": "We ensure alignment across cross-functional teams.",
+    "spanish": "Aseguramos alineación entre equipos multifuncionales.",
+    "section": "Colaboración y gestión",
+    "context": "Coordinación",
+    "tags": ["alignment"]
+  },
+  {
+    "id": 398,
+    "english": "We manage dependencies between teams.",
+    "spanish": "Gestionamos dependencias entre equipos.",
+    "section": "Colaboración y gestión",
+    "context": "Planificación",
+    "tags": ["dependencies"]
+  },
+  {
+    "id": 399,
+    "english": "We ensure transparency in project progress.",
+    "spanish": "Aseguramos transparencia en el progreso del proyecto.",
+    "section": "Colaboración y gestión",
+    "context": "Seguimiento",
+    "tags": ["transparency"]
+  },
+  {
+    "id": 400,
+    "english": "We communicate risks and issues proactively.",
+    "spanish": "Comunicamos riesgos y problemas de forma proactiva.",
+    "section": "Colaboración y gestión",
+    "context": "Gestión de riesgos",
+    "tags": ["risk"]
+  },
+  {
+    "id": 401,
+    "english": "We gather feedback from stakeholders regularly.",
+    "spanish": "Recopilamos feedback de stakeholders regularmente.",
+    "section": "Colaboración y gestión",
+    "context": "Mejora continua",
+    "tags": ["feedback"]
+  },
+  {
+    "id": 402,
+    "english": "We ensure that requirements are clearly understood.",
+    "spanish": "Aseguramos que los requerimientos sean claramente entendidos.",
+    "section": "Colaboración y gestión",
+    "context": "Claridad",
+    "tags": ["requirements"]
+  },
+  {
+    "id": 403,
+    "english": "We facilitate collaboration between business and technical teams.",
+    "spanish": "Facilitamos la colaboración entre equipos de negocio y técnicos.",
+    "section": "Colaboración y gestión",
+    "context": "Coordinación",
+    "tags": ["collaboration"]
+  },
+  {
+    "id": 404,
+    "english": "We ensure accountability across teams.",
+    "spanish": "Aseguramos responsabilidad entre equipos.",
+    "section": "Colaboración y gestión",
+    "context": "Gestión",
+    "tags": ["accountability"]
+  },
+  {
+    "id": 405,
+    "english": "We prioritize tasks based on business impact.",
+    "spanish": "Priorizamos tareas basadas en el impacto de negocio.",
+    "section": "Colaboración y gestión",
+    "context": "Priorización",
+    "tags": ["priority"]
+  },
+  {
+    "id": 406,
+    "english": "We track progress using agile methodologies.",
+    "spanish": "Hacemos seguimiento del progreso usando metodologías ágiles.",
+    "section": "Colaboración y gestión",
+    "context": "Agile",
+    "tags": ["agile"]
+  },
+  {
+    "id": 407,
+    "english": "We conduct regular meetings to align teams.",
+    "spanish": "Realizamos reuniones periódicas para alinear equipos.",
+    "section": "Colaboración y gestión",
+    "context": "Coordinación",
+    "tags": ["meetings"]
+  },
+  {
+    "id": 408,
+    "english": "We resolve conflicts through open communication.",
+    "spanish": "Resolvemos conflictos mediante comunicación abierta.",
+    "section": "Colaboración y gestión",
+    "context": "Gestión de equipo",
+    "tags": ["conflict"]
+  },
+  {
+    "id": 409,
+    "english": "We ensure continuous improvement in team processes.",
+    "spanish": "Aseguramos mejora continua en los procesos del equipo.",
+    "section": "Colaboración y gestión",
+    "context": "Mejora continua",
+    "tags": ["improvement"]
+  },
+  {
+    "id": 410,
+    "english": "We document decisions for better collaboration.",
+    "spanish": "Documentamos decisiones para mejorar la colaboración.",
+    "section": "Colaboración y gestión",
+    "context": "Documentación",
+    "tags": ["documentation"]
+  },
+  {
+    "id": 411,
+    "english": "We ensure alignment with project timelines.",
+    "spanish": "Aseguramos alineación con los plazos del proyecto.",
+    "section": "Colaboración y gestión",
+    "context": "Planificación",
+    "tags": ["timeline"]
+  },
+  {
+    "id": 412,
+    "english": "We coordinate releases across teams.",
+    "spanish": "Coordinamos releases entre equipos.",
+    "section": "Colaboración y gestión",
+    "context": "Deployment",
+    "tags": ["release"]
+  },
+  {
+    "id": 413,
+    "english": "We ensure stakeholders are informed at all times.",
+    "spanish": "Aseguramos que los stakeholders estén informados en todo momento.",
+    "section": "Colaboración y gestión",
+    "context": "Comunicación",
+    "tags": ["stakeholders"]
+  },
+  {
+    "id": 414,
+    "english": "We align expectations early in the project.",
+    "spanish": "Alineamos expectativas desde el inicio del proyecto.",
+    "section": "Colaboración y gestión",
+    "context": "Inicio de proyecto",
+    "tags": ["alignment"]
+  },
+  {
+    "id": 415,
+    "english": "We drive collaboration to achieve project goals.",
+    "spanish": "Impulsamos la colaboración para lograr los objetivos del proyecto.",
+    "section": "Colaboración y gestión",
+    "context": "Liderazgo",
+    "tags": ["collaboration"]
+  },
+  {
+    "id": 416,
+    "english": "We estimate effort based on the complexity of the requirements.",
+    "spanish": "Estimamos el esfuerzo basado en la complejidad de los requerimientos.",
+    "section": "Estimación y planificación",
+    "context": "Estimación inicial",
+    "tags": ["estimation", "planning"]
+  },
+  {
+    "id": 417,
+    "english": "We break down the work into manageable tasks.",
+    "spanish": "Dividimos el trabajo en tareas manejables.",
+    "section": "Estimación y planificación",
+    "context": "Planificación",
+    "tags": ["tasks"]
+  },
+  {
+    "id": 418,
+    "english": "We define clear milestones for the project.",
+    "spanish": "Definimos hitos claros para el proyecto.",
+    "section": "Estimación y planificación",
+    "context": "Planificación",
+    "tags": ["milestones"]
+  },
+  {
+    "id": 419,
+    "english": "We estimate timelines based on team capacity.",
+    "spanish": "Estimamos tiempos basados en la capacidad del equipo.",
+    "section": "Estimación y planificación",
+    "context": "Planificación",
+    "tags": ["timeline"]
+  },
+  {
+    "id": 420,
+    "english": "We prioritize tasks based on business value.",
+    "spanish": "Priorizamos tareas basadas en valor de negocio.",
+    "section": "Estimación y planificación",
+    "context": "Priorización",
+    "tags": ["priority"]
+  },
+  {
+    "id": 421,
+    "english": "We identify dependencies to plan effectively.",
+    "spanish": "Identificamos dependencias para planificar eficientemente.",
+    "section": "Estimación y planificación",
+    "context": "Planificación",
+    "tags": ["dependencies"]
+  },
+  {
+    "id": 422,
+    "english": "We adjust estimates as new information becomes available.",
+    "spanish": "Ajustamos estimaciones conforme se obtiene nueva información.",
+    "section": "Estimación y planificación",
+    "context": "Adaptación",
+    "tags": ["estimation"]
+  },
+  {
+    "id": 423,
+    "english": "We align timelines with stakeholder expectations.",
+    "spanish": "Alineamos los tiempos con las expectativas de los stakeholders.",
+    "section": "Estimación y planificación",
+    "context": "Alineación",
+    "tags": ["timeline"]
+  },
+  {
+    "id": 424,
+    "english": "We define scope clearly to avoid misunderstandings.",
+    "spanish": "Definimos el alcance claramente para evitar malentendidos.",
+    "section": "Estimación y planificación",
+    "context": "Alcance",
+    "tags": ["scope"]
+  },
+  {
+    "id": 425,
+    "english": "We plan resources according to project needs.",
+    "spanish": "Planificamos recursos según las necesidades del proyecto.",
+    "section": "Estimación y planificación",
+    "context": "Recursos",
+    "tags": ["resources"]
+  },
+  {
+    "id": 426,
+    "english": "We evaluate risks during planning.",
+    "spanish": "Evaluamos riesgos durante la planificación.",
+    "section": "Estimación y planificación",
+    "context": "Riesgos",
+    "tags": ["risk"]
+  },
+  {
+    "id": 427,
+    "english": "We allocate buffer time for uncertainties.",
+    "spanish": "Asignamos tiempo buffer para incertidumbres.",
+    "section": "Estimación y planificación",
+    "context": "Planificación",
+    "tags": ["buffer"]
+  },
+  {
+    "id": 428,
+    "english": "We define deliverables for each phase.",
+    "spanish": "Definimos entregables para cada fase.",
+    "section": "Estimación y planificación",
+    "context": "Planificación",
+    "tags": ["deliverables"]
+  },
+  {
+    "id": 429,
+    "english": "We ensure realistic timelines for delivery.",
+    "spanish": "Aseguramos tiempos realistas de entrega.",
+    "section": "Estimación y planificación",
+    "context": "Planificación",
+    "tags": ["timeline"]
+  },
+  {
+    "id": 430,
+    "english": "We use historical data to improve estimations.",
+    "spanish": "Usamos datos históricos para mejorar estimaciones.",
+    "section": "Estimación y planificación",
+    "context": "Estimación",
+    "tags": ["data"]
+  },
+  {
+    "id": 431,
+    "english": "We continuously refine our planning approach.",
+    "spanish": "Refinamos continuamente nuestro enfoque de planificación.",
+    "section": "Estimación y planificación",
+    "context": "Mejora continua",
+    "tags": ["planning"]
+  },
+  {
+    "id": 432,
+    "english": "We ensure alignment between scope, time, and resources.",
+    "spanish": "Aseguramos alineación entre alcance, tiempo y recursos.",
+    "section": "Estimación y planificación",
+    "context": "Gestión",
+    "tags": ["alignment"]
+  },
+  {
+    "id": 433,
+    "english": "We track progress against the plan.",
+    "spanish": "Hacemos seguimiento del progreso contra el plan.",
+    "section": "Estimación y planificación",
+    "context": "Seguimiento",
+    "tags": ["tracking"]
+  },
+  {
+    "id": 434,
+    "english": "We update plans based on project changes.",
+    "spanish": "Actualizamos planes basados en cambios del proyecto.",
+    "section": "Estimación y planificación",
+    "context": "Adaptación",
+    "tags": ["planning"]
+  },
+  {
+    "id": 435,
+    "english": "We ensure clear communication of timelines and deliverables.",
+    "spanish": "Aseguramos comunicación clara de tiempos y entregables.",
+    "section": "Estimación y planificación",
+    "context": "Comunicación",
+    "tags": ["communication"]
+  },
+  {
+    "id": 436,
+    "english": "We optimize infrastructure costs by right-sizing resources.",
+    "spanish": "Optimizamos costos de infraestructura ajustando correctamente los recursos.",
+    "section": "Costos y optimización",
+    "context": "Optimización cloud",
+    "tags": ["cost", "optimization"]
+  },
+  {
+    "id": 437,
+    "english": "We use auto-scaling to avoid overprovisioning.",
+    "spanish": "Usamos auto-scaling para evitar sobreaprovisionamiento.",
+    "section": "Costos y optimización",
+    "context": "Optimización",
+    "tags": ["autoscaling"]
+  },
+  {
+    "id": 438,
+    "english": "We monitor resource usage to identify inefficiencies.",
+    "spanish": "Monitoreamos el uso de recursos para identificar ineficiencias.",
+    "section": "Costos y optimización",
+    "context": "Análisis",
+    "tags": ["monitoring"]
+  },
+  {
+    "id": 439,
+    "english": "We use reserved instances to reduce long-term costs.",
+    "spanish": "Usamos instancias reservadas para reducir costos a largo plazo.",
+    "section": "Costos y optimización",
+    "context": "Cloud",
+    "tags": ["cost"]
+  },
+  {
+    "id": 440,
+    "english": "We optimize storage costs by using tiered storage.",
+    "spanish": "Optimizamos costos de almacenamiento usando almacenamiento por niveles.",
+    "section": "Costos y optimización",
+    "context": "Storage",
+    "tags": ["storage"]
+  },
+  {
+    "id": 441,
+    "english": "We delete unused resources to reduce costs.",
+    "spanish": "Eliminamos recursos no utilizados para reducir costos.",
+    "section": "Costos y optimización",
+    "context": "Optimización",
+    "tags": ["cleanup"]
+  },
+  {
+    "id": 442,
+    "english": "We use serverless services to minimize infrastructure costs.",
+    "spanish": "Usamos servicios serverless para minimizar costos de infraestructura.",
+    "section": "Costos y optimización",
+    "context": "Cloud",
+    "tags": ["serverless"]
+  },
+  {
+    "id": 443,
+    "english": "We optimize queries to reduce compute costs.",
+    "spanish": "Optimizamos consultas para reducir costos de cómputo.",
+    "section": "Costos y optimización",
+    "context": "Base de datos",
+    "tags": ["query"]
+  },
+  {
+    "id": 444,
+    "english": "We cache frequently accessed data to reduce load.",
+    "spanish": "Cacheamos datos frecuentes para reducir carga.",
+    "section": "Costos y optimización",
+    "context": "Performance",
+    "tags": ["cache"]
+  },
+  {
+    "id": 445,
+    "english": "We reduce data transfer costs by optimizing network usage.",
+    "spanish": "Reducimos costos de transferencia optimizando el uso de red.",
+    "section": "Costos y optimización",
+    "context": "Networking",
+    "tags": ["network"]
+  },
+  {
+    "id": 446,
+    "english": "We evaluate cost versus performance trade-offs.",
+    "spanish": "Evaluamos trade-offs entre costo y rendimiento.",
+    "section": "Costos y optimización",
+    "context": "Arquitectura",
+    "tags": ["tradeoff"]
+  },
+  {
+    "id": 447,
+    "english": "We monitor cloud costs continuously.",
+    "spanish": "Monitoreamos costos cloud continuamente.",
+    "section": "Costos y optimización",
+    "context": "FinOps",
+    "tags": ["monitoring"]
+  },
+  {
+    "id": 448,
+    "english": "We set budgets and alerts to control spending.",
+    "spanish": "Definimos presupuestos y alertas para controlar gastos.",
+    "section": "Costos y optimización",
+    "context": "FinOps",
+    "tags": ["budget"]
+  },
+  {
+    "id": 449,
+    "english": "We optimize compute usage during off-peak hours.",
+    "spanish": "Optimizamos uso de cómputo en horas valle.",
+    "section": "Costos y optimización",
+    "context": "Optimización",
+    "tags": ["compute"]
+  },
+  {
+    "id": 450,
+    "english": "We reduce costs by using spot instances.",
+    "spanish": "Reducimos costos usando instancias spot.",
+    "section": "Costos y optimización",
+    "context": "Cloud",
+    "tags": ["spot"]
+  },
+  {
+    "id": 451,
+    "english": "We optimize application performance to reduce infrastructure usage.",
+    "spanish": "Optimizamos el rendimiento de la aplicación para reducir uso de infraestructura.",
+    "section": "Costos y optimización",
+    "context": "Optimización",
+    "tags": ["performance"]
+  },
+  {
+    "id": 452,
+    "english": "We avoid over-engineering to control costs.",
+    "spanish": "Evitamos sobreingeniería para controlar costos.",
+    "section": "Costos y optimización",
+    "context": "Diseño",
+    "tags": ["design"]
+  },
+  {
+    "id": 453,
+    "english": "We continuously review cost optimization opportunities.",
+    "spanish": "Revisamos continuamente oportunidades de optimización de costos.",
+    "section": "Costos y optimización",
+    "context": "Mejora continua",
+    "tags": ["optimization"]
+  },
+  {
+    "id": 454,
+    "english": "We align cost optimization with business priorities.",
+    "spanish": "Alineamos optimización de costos con prioridades de negocio.",
+    "section": "Costos y optimización",
+    "context": "Negocio",
+    "tags": ["business"]
+  },
+  {
+    "id": 455,
+    "english": "We ensure efficient resource allocation across environments.",
+    "spanish": "Aseguramos asignación eficiente de recursos entre entornos.",
+    "section": "Costos y optimización",
+    "context": "Infraestructura",
+    "tags": ["resources"]
+  },
+  {
+    "id": 456,
+    "english": "We integrate legacy systems with modern applications.",
+    "spanish": "Integramos sistemas legacy con aplicaciones modernas.",
+    "section": "Sistemas legacy / on-premise",
+    "context": "Integración",
+    "tags": ["legacy", "integration"]
+  },
+  {
+    "id": 457,
+    "english": "We use adapters to connect legacy systems.",
+    "spanish": "Usamos adaptadores para conectar sistemas legacy.",
+    "section": "Sistemas legacy / on-premise",
+    "context": "Integración",
+    "tags": ["adapter"]
+  },
+  {
+    "id": 458,
+    "english": "We encapsulate legacy logic behind APIs.",
+    "spanish": "Encapsulamos lógica legacy detrás de APIs.",
+    "section": "Sistemas legacy / on-premise",
+    "context": "Modernización",
+    "tags": ["api"]
+  },
+  {
+    "id": 459,
+    "english": "We minimize direct dependencies on legacy systems.",
+    "spanish": "Minimizamos dependencias directas con sistemas legacy.",
+    "section": "Sistemas legacy / on-premise",
+    "context": "Desacoplamiento",
+    "tags": ["decoupling"]
+  },
+  {
+    "id": 460,
+    "english": "We gradually replace legacy components.",
+    "spanish": "Reemplazamos gradualmente componentes legacy.",
+    "section": "Sistemas legacy / on-premise",
+    "context": "Modernización",
+    "tags": ["migration"]
+  },
+  {
+    "id": 461,
+    "english": "We maintain backward compatibility with legacy systems.",
+    "spanish": "Mantenemos compatibilidad con sistemas legacy.",
+    "section": "Sistemas legacy / on-premise",
+    "context": "Compatibilidad",
+    "tags": ["compatibility"]
+  },
+  {
+    "id": 462,
+    "english": "We ensure data consistency between legacy and new systems.",
+    "spanish": "Aseguramos consistencia de datos entre sistemas legacy y nuevos.",
+    "section": "Sistemas legacy / on-premise",
+    "context": "Datos",
+    "tags": ["data"]
+  },
+  {
+    "id": 463,
+    "english": "We synchronize data between systems.",
+    "spanish": "Sincronizamos datos entre sistemas.",
+    "section": "Sistemas legacy / on-premise",
+    "context": "Integración",
+    "tags": ["sync"]
+  },
+  {
+    "id": 464,
+    "english": "We handle legacy constraints in our architecture.",
+    "spanish": "Manejamos restricciones legacy en la arquitectura.",
+    "section": "Sistemas legacy / on-premise",
+    "context": "Diseño",
+    "tags": ["constraints"]
+  },
+  {
+    "id": 465,
+    "english": "We design around limitations of legacy systems.",
+    "spanish": "Diseñamos considerando limitaciones de sistemas legacy.",
+    "section": "Sistemas legacy / on-premise",
+    "context": "Arquitectura",
+    "tags": ["limitations"]
+  },
+  {
+    "id": 466,
+    "english": "We isolate legacy components to reduce risk.",
+    "spanish": "Aislamos componentes legacy para reducir riesgo.",
+    "section": "Sistemas legacy / on-premise",
+    "context": "Resiliencia",
+    "tags": ["isolation"]
+  },
+  {
+    "id": 467,
+    "english": "We modernize legacy systems incrementally.",
+    "spanish": "Modernizamos sistemas legacy de forma incremental.",
+    "section": "Sistemas legacy / on-premise",
+    "context": "Modernización",
+    "tags": ["incremental"]
+  },
+  {
+    "id": 468,
+    "english": "We expose legacy functionality through APIs.",
+    "spanish": "Exponemos funcionalidad legacy a través de APIs.",
+    "section": "Sistemas legacy / on-premise",
+    "context": "Integración",
+    "tags": ["api"]
+  },
+  {
+    "id": 469,
+    "english": "We ensure system stability while integrating legacy systems.",
+    "spanish": "Aseguramos estabilidad al integrar sistemas legacy.",
+    "section": "Sistemas legacy / on-premise",
+    "context": "Estabilidad",
+    "tags": ["stability"]
+  },
+  {
+    "id": 470,
+    "english": "We reduce reliance on legacy systems over time.",
+    "spanish": "Reducimos la dependencia de sistemas legacy con el tiempo.",
+    "section": "Sistemas legacy / on-premise",
+    "context": "Modernización",
+    "tags": ["dependency"]
+  },
+  {
+    "id": 471,
+    "english": "We ensure minimal disruption during legacy integration.",
+    "spanish": "Aseguramos mínima interrupción durante la integración legacy.",
+    "section": "Sistemas legacy / on-premise",
+    "context": "Continuidad",
+    "tags": ["integration"]
+  },
+  {
+    "id": 472,
+    "english": "We maintain existing business processes during transition.",
+    "spanish": "Mantenemos procesos existentes durante la transición.",
+    "section": "Sistemas legacy / on-premise",
+    "context": "Negocio",
+    "tags": ["process"]
+  },
+  {
+    "id": 473,
+    "english": "We validate legacy system behavior before integration.",
+    "spanish": "Validamos el comportamiento del sistema legacy antes de integrarlo.",
+    "section": "Sistemas legacy / on-premise",
+    "context": "Testing",
+    "tags": ["validation"]
+  },
+  {
+    "id": 474,
+    "english": "We document legacy system dependencies.",
+    "spanish": "Documentamos dependencias de sistemas legacy.",
+    "section": "Sistemas legacy / on-premise",
+    "context": "Documentación",
+    "tags": ["documentation"]
+  },
+  {
+    "id": 475,
+    "english": "We plan legacy system decommissioning carefully.",
+    "spanish": "Planificamos cuidadosamente la desactivación de sistemas legacy.",
+    "section": "Sistemas legacy / on-premise",
+    "context": "Migración",
+    "tags": ["decommission"]
+  },
+  {
+    "id": 476,
+    "english": "We define a clear migration strategy before starting.",
+    "spanish": "Definimos una estrategia clara de migración antes de comenzar.",
+    "section": "Migraciones",
+    "context": "Planificación",
+    "tags": ["strategy"]
+  },
+  {
+    "id": 477,
+    "english": "We assess the current system before migrating.",
+    "spanish": "Evaluamos el sistema actual antes de migrar.",
+    "section": "Migraciones",
+    "context": "Análisis",
+    "tags": ["assessment"]
+  },
+  {
+    "id": 478,
+    "english": "We identify dependencies before migration.",
+    "spanish": "Identificamos dependencias antes de la migración.",
+    "section": "Migraciones",
+    "context": "Planificación",
+    "tags": ["dependencies"]
+  },
+  {
+    "id": 479,
+    "english": "We migrate systems incrementally to reduce risk.",
+    "spanish": "Migramos sistemas de forma incremental para reducir riesgo.",
+    "section": "Migraciones",
+    "context": "Estrategia",
+    "tags": ["incremental"]
+  },
+  {
+    "id": 480,
+    "english": "We ensure minimal downtime during migration.",
+    "spanish": "Aseguramos mínimo downtime durante la migración.",
+    "section": "Migraciones",
+    "context": "Continuidad",
+    "tags": ["downtime"]
+  },
+  {
+    "id": 481,
+    "english": "We validate data integrity after migration.",
+    "spanish": "Validamos la integridad de datos después de la migración.",
+    "section": "Migraciones",
+    "context": "Datos",
+    "tags": ["data"]
+  },
+  {
+    "id": 482,
+    "english": "We use data replication during migration.",
+    "spanish": "Usamos replicación de datos durante la migración.",
+    "section": "Migraciones",
+    "context": "Datos",
+    "tags": ["replication"]
+  },
+  {
+    "id": 483,
+    "english": "We test the system thoroughly after migration.",
+    "spanish": "Probamos el sistema exhaustivamente después de la migración.",
+    "section": "Migraciones",
+    "context": "Testing",
+    "tags": ["testing"]
+  },
+  {
+    "id": 484,
+    "english": "We ensure compatibility between old and new systems.",
+    "spanish": "Aseguramos compatibilidad entre sistemas antiguos y nuevos.",
+    "section": "Migraciones",
+    "context": "Compatibilidad",
+    "tags": ["compatibility"]
+  },
+  {
+    "id": 485,
+    "english": "We perform dry runs before the actual migration.",
+    "spanish": "Realizamos pruebas previas antes de la migración real.",
+    "section": "Migraciones",
+    "context": "Preparación",
+    "tags": ["testing"]
+  },
+  {
+    "id": 486,
+    "english": "We monitor the system during migration.",
+    "spanish": "Monitoreamos el sistema durante la migración.",
+    "section": "Migraciones",
+    "context": "Seguimiento",
+    "tags": ["monitoring"]
+  },
+  {
+    "id": 487,
+    "english": "We ensure rollback plans are in place.",
+    "spanish": "Aseguramos planes de rollback disponibles.",
+    "section": "Migraciones",
+    "context": "Riesgos",
+    "tags": ["rollback"]
+  },
+  {
+    "id": 488,
+    "english": "We migrate data in phases to minimize risk.",
+    "spanish": "Migramos datos por fases para minimizar riesgos.",
+    "section": "Migraciones",
+    "context": "Estrategia",
+    "tags": ["phases"]
+  },
+  {
+    "id": 489,
+    "english": "We ensure business continuity during migration.",
+    "spanish": "Aseguramos continuidad del negocio durante la migración.",
+    "section": "Migraciones",
+    "context": "Negocio",
+    "tags": ["continuity"]
+  },
+  {
+    "id": 490,
+    "english": "We align migration with business timelines.",
+    "spanish": "Alineamos la migración con los tiempos del negocio.",
+    "section": "Migraciones",
+    "context": "Planificación",
+    "tags": ["timeline"]
+  },
+  {
+    "id": 491,
+    "english": "We validate performance after migration.",
+    "spanish": "Validamos el rendimiento después de la migración.",
+    "section": "Migraciones",
+    "context": "Performance",
+    "tags": ["performance"]
+  },
+  {
+    "id": 492,
+    "english": "We ensure proper documentation during migration.",
+    "spanish": "Aseguramos documentación adecuada durante la migración.",
+    "section": "Migraciones",
+    "context": "Documentación",
+    "tags": ["documentation"]
+  },
+  {
+    "id": 493,
+    "english": "We communicate progress to stakeholders.",
+    "spanish": "Comunicamos el progreso a los stakeholders.",
+    "section": "Migraciones",
+    "context": "Comunicación",
+    "tags": ["stakeholders"]
+  },
+  {
+    "id": 494,
+    "english": "We handle unexpected issues during migration.",
+    "spanish": "Manejamos problemas inesperados durante la migración.",
+    "section": "Migraciones",
+    "context": "Riesgos",
+    "tags": ["issues"]
+  },
+  {
+    "id": 495,
+    "english": "We ensure a smooth transition to the new system.",
+    "spanish": "Aseguramos una transición fluida al nuevo sistema.",
+    "section": "Migraciones",
+    "context": "Cierre",
+    "tags": ["transition"]
+  },
+    {
+    "id": 496,
+    "english": "We document the architecture using clear diagrams.",
+    "spanish": "Documentamos la arquitectura usando diagramas claros.",
+    "section": "Diagramación y documentación",
+    "context": "Documentación técnica",
+    "tags": ["diagram", "documentation"]
+  },
+  {
+    "id": 497,
+    "english": "We use standardized diagrams for consistency.",
+    "spanish": "Usamos diagramas estandarizados para mantener consistencia.",
+    "section": "Diagramación y documentación",
+    "context": "Estándares",
+    "tags": ["standards"]
+  },
+  {
+    "id": 498,
+    "english": "We maintain up-to-date documentation.",
+    "spanish": "Mantenemos la documentación actualizada.",
+    "section": "Diagramación y documentación",
+    "context": "Mantenimiento",
+    "tags": ["documentation"]
+  },
+  {
+    "id": 499,
+    "english": "We ensure diagrams are easy to understand.",
+    "spanish": "Aseguramos que los diagramas sean fáciles de entender.",
+    "section": "Diagramación y documentación",
+    "context": "Claridad",
+    "tags": ["clarity"]
+  },
+  {
+    "id": 500,
+    "english": "We document key architectural decisions.",
+    "spanish": "Documentamos decisiones arquitectónicas clave.",
+    "section": "Diagramación y documentación",
+    "context": "Decisiones",
+    "tags": ["architecture"]
+  },
+  {
+    "id": 501,
+    "english": "We include context in all documentation.",
+    "spanish": "Incluimos contexto en toda la documentación.",
+    "section": "Diagramación y documentación",
+    "context": "Claridad",
+    "tags": ["context"]
+  },
+  {
+    "id": 502,
+    "english": "We use documentation to align teams.",
+    "spanish": "Usamos documentación para alinear equipos.",
+    "section": "Diagramación y documentación",
+    "context": "Colaboración",
+    "tags": ["alignment"]
+  },
+  {
+    "id": 503,
+    "english": "We document system interactions clearly.",
+    "spanish": "Documentamos claramente las interacciones del sistema.",
+    "section": "Diagramación y documentación",
+    "context": "Arquitectura",
+    "tags": ["system"]
+  },
+  {
+    "id": 504,
+    "english": "We ensure traceability of decisions.",
+    "spanish": "Aseguramos trazabilidad de decisiones.",
+    "section": "Diagramación y documentación",
+    "context": "Gobernanza",
+    "tags": ["traceability"]
+  },
+  {
+    "id": 505,
+    "english": "We use documentation as a source of truth.",
+    "spanish": "Usamos la documentación como fuente de verdad.",
+    "section": "Diagramación y documentación",
+    "context": "Gestión",
+    "tags": ["documentation"]
+  },
+  {
+    "id": 506,
+    "english": "We standardize documentation formats.",
+    "spanish": "Estandarizamos formatos de documentación.",
+    "section": "Diagramación y documentación",
+    "context": "Estándares",
+    "tags": ["standards"]
+  },
+  {
+    "id": 507,
+    "english": "We document APIs and interfaces.",
+    "spanish": "Documentamos APIs e interfaces.",
+    "section": "Diagramación y documentación",
+    "context": "Integración",
+    "tags": ["api"]
+  },
+  {
+    "id": 508,
+    "english": "We include examples in documentation for clarity.",
+    "spanish": "Incluimos ejemplos en la documentación para mayor claridad.",
+    "section": "Diagramación y documentación",
+    "context": "Claridad",
+    "tags": ["examples"]
+  },
+  {
+    "id": 509,
+    "english": "We keep documentation accessible to all teams.",
+    "spanish": "Mantenemos la documentación accesible para todos los equipos.",
+    "section": "Diagramación y documentación",
+    "context": "Colaboración",
+    "tags": ["access"]
+  },
+  {
+    "id": 510,
+    "english": "We ensure documentation supports onboarding.",
+    "spanish": "Aseguramos que la documentación facilite el onboarding.",
+    "section": "Diagramación y documentación",
+    "context": "Onboarding",
+    "tags": ["onboarding"]
+  },
+    {
+    "id": 511,
+    "english": "In summary, this architecture meets the business requirements.",
+    "spanish": "En resumen, esta arquitectura cumple con los requerimientos del negocio.",
+    "section": "Cierre y conclusiones",
+    "context": "Cierre de presentación",
+    "tags": ["summary", "business"]
+  },
+  {
+    "id": 512,
+    "english": "To conclude, this solution is scalable and reliable.",
+    "spanish": "Para concluir, esta solución es escalable y confiable.",
+    "section": "Cierre y conclusiones",
+    "context": "Conclusión técnica",
+    "tags": ["conclusion", "scalability"]
+  },
+  {
+    "id": 513,
+    "english": "This design ensures long-term maintainability.",
+    "spanish": "Este diseño garantiza mantenibilidad a largo plazo.",
+    "section": "Cierre y conclusiones",
+    "context": "Resumen de beneficios",
+    "tags": ["maintainability"]
+  },
+  {
+    "id": 514,
+    "english": "We have aligned the solution with business goals.",
+    "spanish": "Hemos alineado la solución con los objetivos del negocio.",
+    "section": "Cierre y conclusiones",
+    "context": "Alineación",
+    "tags": ["business"]
+  },
+  {
+    "id": 515,
+    "english": "This approach allows future scalability.",
+    "spanish": "Este enfoque permite escalabilidad futura.",
+    "section": "Cierre y conclusiones",
+    "context": "Escalabilidad",
+    "tags": ["scalability"]
+  },
+  {
+    "id": 516,
+    "english": "We have minimized risks with this design.",
+    "spanish": "Hemos minimizado riesgos con este diseño.",
+    "section": "Cierre y conclusiones",
+    "context": "Riesgos",
+    "tags": ["risk"]
+  },
+  {
+    "id": 517,
+    "english": "This solution balances performance and cost.",
+    "spanish": "Esta solución balancea rendimiento y costo.",
+    "section": "Cierre y conclusiones",
+    "context": "Trade-offs",
+    "tags": ["performance", "cost"]
+  },
+  {
+    "id": 518,
+    "english": "We ensured high availability across the system.",
+    "spanish": "Aseguramos alta disponibilidad en el sistema.",
+    "section": "Cierre y conclusiones",
+    "context": "Disponibilidad",
+    "tags": ["availability"]
+  },
+  {
+    "id": 519,
+    "english": "This architecture is designed for long-term evolution.",
+    "spanish": "Esta arquitectura está diseñada para evolución a largo plazo.",
+    "section": "Cierre y conclusiones",
+    "context": "Evolución",
+    "tags": ["evolution"]
+  },
+  {
+    "id": 520,
+    "english": "We have ensured system resilience.",
+    "spanish": "Hemos asegurado la resiliencia del sistema.",
+    "section": "Cierre y conclusiones",
+    "context": "Resiliencia",
+    "tags": ["resilience"]
+  },
+  {
+    "id": 521,
+    "english": "The system is prepared to handle future growth.",
+    "spanish": "El sistema está preparado para soportar crecimiento futuro.",
+    "section": "Cierre y conclusiones",
+    "context": "Escalabilidad",
+    "tags": ["growth"]
+  },
+  {
+    "id": 522,
+    "english": "We have validated the solution against requirements.",
+    "spanish": "Hemos validado la solución contra los requerimientos.",
+    "section": "Cierre y conclusiones",
+    "context": "Validación",
+    "tags": ["validation"]
+  },
+  {
+    "id": 523,
+    "english": "This architecture reduces operational complexity.",
+    "spanish": "Esta arquitectura reduce la complejidad operativa.",
+    "section": "Cierre y conclusiones",
+    "context": "Operaciones",
+    "tags": ["complexity"]
+  },
+  {
+    "id": 524,
+    "english": "We ensured a secure and scalable solution.",
+    "spanish": "Aseguramos una solución segura y escalable.",
+    "section": "Cierre y conclusiones",
+    "context": "Seguridad",
+    "tags": ["security"]
+  },
+  {
+    "id": 525,
+    "english": "Let me know if you have any questions.",
+    "spanish": "Avísenme si tienen alguna pregunta.",
+    "section": "Cierre y conclusiones",
+    "context": "Cierre de presentación",
+    "tags": ["questions"]
+  }
+]

@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,300;0,14..32,400;0,14..32,500;0,14..32,600;0,14..32,700;1,14..32,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── Base ─────────────────────────────────────────────── */
+@layer base {
+  * {
+    -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
+  }
+
+  html {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    background-color: #080812;
+    background-image:
+      radial-gradient(ellipse at 15% 60%, rgba(99, 102, 241, 0.09) 0%, transparent 55%),
+      radial-gradient(ellipse at 85% 15%, rgba(139, 92, 246, 0.07) 0%, transparent 55%);
+    min-height: 100vh;
+    overscroll-behavior: none;
+  }
+}
+
+/* ── Utilities ────────────────────────────────────────── */
+@layer utilities {
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* ── Card slide / entrance animations ────────────────── */
+@keyframes slideFromRight {
+  from {
+    opacity: 0;
+    transform: translateX(52px) scale(0.97);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0) scale(1);
+  }
+}
+
+@keyframes slideFromLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-52px) scale(0.97);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0) scale(1);
+  }
+}
+
+@keyframes fadeScale {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.anim-slide-right {
+  animation: slideFromRight 0.38s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+}
+
+.anim-slide-left {
+  animation: slideFromLeft 0.38s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+}
+
+.anim-fade-scale {
+  animation: fadeScale 0.42s cubic-bezier(0.25, 0.46, 0.45, 0.94) both;
+}
+
+/* ── Reveal button active state ───────────────────────── */
+.reveal-btn:active {
+  transform: scale(0.97) !important;
+}
